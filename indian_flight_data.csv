@@ -1,0 +1,1058 @@
+Flight Number,Origin City,Destination City,Departure Date,Arrival Date,Total Duration,Stops,Airline,Airline,Price,Review
+FL-1,Ahmedabad,Bangalore,2024-01-01 00:00,2024-01-01 00:00,1h 57m,0,6E,IndiGo Airlines,9278,Excellent
+FL-2,Ahmedabad,Mumbai,2024-01-01 01:00,2024-01-01 01:00,5h 43m,0,6E,IndiGo Airlines,11427,Good
+FL-3,Ahmedabad,Kolkata,2024-01-01 02:00,2024-01-01 02:00,4h 52m,0,6E,IndiGo Airlines,9093,Excellent
+FL-4,Ahmedabad,Delhi,2024-01-01 03:00,2024-01-01 03:00,2h 26m,0,6E,IndiGo Airlines,5109,Good
+FL-5,Ahmedabad,Goa,2024-01-01 04:00,2024-01-01 04:00,2h 15m,0,6E,IndiGo Airlines,3043,Excellent
+FL-6,Ahmedabad,Hyderabad,2024-01-01 05:00,2024-01-01 05:00,5h 31m,0,6E,IndiGo Airlines,14064,Good
+FL-7,Ahmedabad,Jaipur,2024-01-01 06:00,2024-01-01 06:00,2h 17m,0,6E,IndiGo Airlines,10420,Good
+FL-8,Ahmedabad,Madras,2024-01-01 07:00,2024-01-01 07:00,2h 32m,0,6E,IndiGo Airlines,11462,Excellent
+FL-9,Ahmedabad,Pune,2024-01-01 08:00,2024-01-01 08:00,4h 20m,0,6E,IndiGo Airlines,7106,Excellent
+FL-10,Bhubaneswar,Bangalore,2024-01-01 09:00,2024-01-01 09:00,1h 43m,0,6E,IndiGo Airlines,5330,Good
+FL-11,Bhubaneswar,Mumbai,2024-01-01 10:00,2024-01-01 10:00,3h 5m,0,6E,IndiGo Airlines,11244,Excellent
+FL-12,Bhubaneswar,Kolkata,2024-01-01 11:00,2024-01-01 11:00,2h 32m,0,6E,IndiGo Airlines,11855,Good
+FL-13,Bhubaneswar,Delhi,2024-01-01 12:00,2024-01-01 12:00,2h 53m,0,6E,IndiGo Airlines,10388,Excellent
+FL-14,Bhubaneswar,Hyderabad,2024-01-01 13:00,2024-01-01 13:00,4h 14m,0,6E,IndiGo Airlines,14318,Excellent
+FL-15,Bhubaneswar,Vishakhapatnam,2024-01-01 14:00,2024-01-01 14:00,2h 12m,0,6E,IndiGo Airlines,5863,Good
+FL-16,Baroda,Mumbai,2024-01-01 15:00,2024-01-01 15:00,2h 28m,0,6E,IndiGo Airlines,12137,Excellent
+FL-17,Baroda,Delhi,2024-01-01 16:00,2024-01-01 16:00,1h 28m,0,6E,IndiGo Airlines,10627,Excellent
+FL-18,Bangalore,Ahmedabad,2024-01-01 17:00,2024-01-01 17:00,4h 9m,0,6E,IndiGo Airlines,7712,Good
+FL-19,Bangalore,Bhubaneswar,2024-01-01 18:00,2024-01-01 18:00,5h 13m,0,6E,IndiGo Airlines,4802,Excellent
+FL-20,Bangalore,Mumbai,2024-01-01 19:00,2024-01-01 19:00,4h 24m,0,6E,IndiGo Airlines,12045,Good
+FL-21,Bangalore,Kolkata,2024-01-01 20:00,2024-01-01 20:00,4h 21m,0,6E,IndiGo Airlines,6062,Good
+FL-22,Bangalore,Kochi,2024-01-01 21:00,2024-01-01 21:00,2h 45m,0,6E,IndiGo Airlines,14215,Good
+FL-23,Bangalore,Delhi,2024-01-01 22:00,2024-01-01 22:00,5h 39m,0,6E,IndiGo Airlines,8436,Good
+FL-24,Bangalore,Guwahati,2024-01-01 23:00,2024-01-01 23:00,3h 39m,0,6E,IndiGo Airlines,6045,Excellent
+FL-25,Bangalore,Goa,2024-01-02 00:00,2024-01-02 00:00,5h 36m,0,6E,IndiGo Airlines,4615,Good
+FL-26,Bangalore,Hyderabad,2024-01-02 01:00,2024-01-02 01:00,3h 15m,0,6E,IndiGo Airlines,4750,Excellent
+FL-27,Bangalore,Jaipur,2024-01-02 02:00,2024-01-02 02:00,5h 22m,0,6E,IndiGo Airlines,8487,Excellent
+FL-28,Bangalore,Lucknow,2024-01-02 03:00,2024-01-02 03:00,4h 47m,0,6E,IndiGo Airlines,11044,Excellent
+FL-29,Bangalore,Madras,2024-01-02 04:00,2024-01-02 04:00,2h 38m,0,6E,IndiGo Airlines,12938,Good
+FL-30,Bangalore,Nagpur,2024-01-02 05:00,2024-01-02 05:00,2h 32m,0,6E,IndiGo Airlines,14031,Good
+FL-31,Bangalore,Pune,2024-01-02 06:00,2024-01-02 06:00,5h 33m,0,6E,IndiGo Airlines,8485,Good
+FL-32,Bangalore,Trivandrum,2024-01-02 07:00,2024-01-02 07:00,4h 44m,0,6E,IndiGo Airlines,14451,Good
+FL-33,Bangalore,Vishakhapatnam,2024-01-02 08:00,2024-01-02 08:00,2h 22m,0,6E,IndiGo Airlines,3306,Good
+FL-34,Mumbai,Ahmedabad,2024-01-02 09:00,2024-01-02 09:00,2h 44m,0,6E,IndiGo Airlines,6632,Excellent
+FL-35,Mumbai,Bhubaneswar,2024-01-02 10:00,2024-01-02 10:00,2h 40m,0,6E,IndiGo Airlines,14228,Excellent
+FL-36,Mumbai,Baroda,2024-01-02 11:00,2024-01-02 11:00,1h 2m,0,6E,IndiGo Airlines,11365,Excellent
+FL-37,Mumbai,Bangalore,2024-01-02 12:00,2024-01-02 12:00,3h 51m,0,6E,IndiGo Airlines,5963,Good
+FL-38,Mumbai,Kolkata,2024-01-02 13:00,2024-01-02 13:00,2h 42m,0,6E,IndiGo Airlines,9545,Excellent
+FL-39,Mumbai,Coimbatore,2024-01-02 14:00,2024-01-02 14:00,2h 29m,0,6E,IndiGo Airlines,3673,Excellent
+FL-40,Mumbai,Kochi,2024-01-02 15:00,2024-01-02 15:00,4h 27m,0,6E,IndiGo Airlines,11406,Good
+FL-41,Mumbai,Delhi,2024-01-02 16:00,2024-01-02 16:00,5h 22m,0,6E,IndiGo Airlines,9414,Excellent
+FL-42,Mumbai,Guwahati,2024-01-02 17:00,2024-01-02 17:00,4h 54m,0,6E,IndiGo Airlines,9761,Excellent
+FL-43,Mumbai,Goa,2024-01-02 18:00,2024-01-02 18:00,3h 40m,0,6E,IndiGo Airlines,5462,Excellent
+FL-44,Mumbai,Hyderabad,2024-01-02 19:00,2024-01-02 19:00,1h 2m,0,6E,IndiGo Airlines,7307,Excellent
+FL-45,Mumbai,Indore,2024-01-02 20:00,2024-01-02 20:00,2h 50m,0,6E,IndiGo Airlines,14073,Excellent
+FL-46,Mumbai,Chandigarh,2024-01-02 21:00,2024-01-02 21:00,2h 40m,0,6E,IndiGo Airlines,4958,Excellent
+FL-47,Mumbai,Jammu,2024-01-02 22:00,2024-01-02 22:00,2h 27m,0,6E,IndiGo Airlines,14267,Excellent
+FL-48,Mumbai,Jaipur,2024-01-02 23:00,2024-01-02 23:00,2h 39m,0,6E,IndiGo Airlines,8834,Good
+FL-49,Mumbai,Lucknow,2024-01-03 00:00,2024-01-03 00:00,3h 31m,0,6E,IndiGo Airlines,7887,Good
+FL-50,Mumbai,Madras,2024-01-03 01:00,2024-01-03 01:00,1h 10m,0,6E,IndiGo Airlines,13749,Good
+FL-51,Mumbai,Nagpur,2024-01-03 02:00,2024-01-03 02:00,1h 11m,0,6E,IndiGo Airlines,14752,Good
+FL-52,Mumbai,Patina,2024-01-03 03:00,2024-01-03 03:00,5h 20m,0,6E,IndiGo Airlines,8236,Excellent
+FL-53,Mumbai,Srinagar,2024-01-03 04:00,2024-01-03 04:00,5h 55m,0,6E,IndiGo Airlines,3170,Good
+FL-54,Mumbai,Trivandrum,2024-01-03 05:00,2024-01-03 05:00,2h 17m,0,6E,IndiGo Airlines,11045,Excellent
+FL-55,Kolkata,Ahmedabad,2024-01-03 06:00,2024-01-03 06:00,5h 29m,0,6E,IndiGo Airlines,6973,Good
+FL-56,Kolkata,Bhubaneswar,2024-01-03 07:00,2024-01-03 07:00,1h 7m,0,6E,IndiGo Airlines,8512,Good
+FL-57,Kolkata,Bangalore,2024-01-03 08:00,2024-01-03 08:00,5h 57m,0,6E,IndiGo Airlines,9526,Excellent
+FL-58,Kolkata,Mumbai,2024-01-03 09:00,2024-01-03 09:00,2h 15m,0,6E,IndiGo Airlines,4382,Good
+FL-59,Kolkata,Delhi,2024-01-03 10:00,2024-01-03 10:00,2h 37m,0,6E,IndiGo Airlines,5729,Excellent
+FL-60,Kolkata,Mohanbari,2024-01-03 11:00,2024-01-03 11:00,3h 8m,0,6E,IndiGo Airlines,13281,Excellent
+FL-61,Kolkata,Guwahati,2024-01-03 12:00,2024-01-03 12:00,2h 25m,0,6E,IndiGo Airlines,6407,Good
+FL-62,Kolkata,Hyderabad,2024-01-03 13:00,2024-01-03 13:00,1h 29m,0,6E,IndiGo Airlines,5574,Good
+FL-63,Kolkata,Imphal,2024-01-03 14:00,2024-01-03 14:00,2h 7m,0,6E,IndiGo Airlines,10658,Excellent
+FL-64,Kolkata,Agartala,2024-01-03 15:00,2024-01-03 15:00,5h 26m,0,6E,IndiGo Airlines,7152,Good
+FL-65,Kolkata,Baghdogra,2024-01-03 16:00,2024-01-03 16:00,2h 33m,0,6E,IndiGo Airlines,11247,Excellent
+FL-66,Kolkata,Ranchi,2024-01-03 17:00,2024-01-03 17:00,4h 8m,0,6E,IndiGo Airlines,10926,Good
+FL-67,Kolkata,Jaipur,2024-01-03 18:00,2024-01-03 18:00,4h 59m,0,6E,IndiGo Airlines,11499,Good
+FL-68,Kolkata,Madras,2024-01-03 19:00,2024-01-03 19:00,5h 43m,0,6E,IndiGo Airlines,13676,Excellent
+FL-69,Kolkata,Nagpur,2024-01-03 20:00,2024-01-03 20:00,3h 11m,0,6E,IndiGo Airlines,8119,Excellent
+FL-70,Kolkata,Patina,2024-01-03 21:00,2024-01-03 21:00,1h 22m,0,6E,IndiGo Airlines,10911,Good
+FL-71,Kolkata,Pune,2024-01-03 22:00,2024-01-03 22:00,5h 7m,0,6E,IndiGo Airlines,6993,Excellent
+FL-72,Kolkata,Raipur,2024-01-03 23:00,2024-01-03 23:00,5h 3m,0,6E,IndiGo Airlines,4324,Excellent
+FL-73,Coimbatore,Mumbai,2024-01-04 00:00,2024-01-04 00:00,1h 17m,0,6E,IndiGo Airlines,9062,Excellent
+FL-74,Coimbatore,Delhi,2024-01-04 01:00,2024-01-04 01:00,5h 19m,0,6E,IndiGo Airlines,11012,Good
+FL-75,Coimbatore,Madras,2024-01-04 02:00,2024-01-04 02:00,5h 32m,0,6E,IndiGo Airlines,4263,Excellent
+FL-76,Kochi,Bangalore,2024-01-04 03:00,2024-01-04 03:00,4h 42m,0,6E,IndiGo Airlines,10096,Excellent
+FL-77,Kochi,Mumbai,2024-01-04 04:00,2024-01-04 04:00,2h 29m,0,6E,IndiGo Airlines,11330,Good
+FL-78,Kochi,Delhi,2024-01-04 05:00,2024-01-04 05:00,4h 4m,0,6E,IndiGo Airlines,4830,Excellent
+FL-79,Kochi,Hyderabad,2024-01-04 06:00,2024-01-04 06:00,5h 9m,0,6E,IndiGo Airlines,11543,Good
+FL-80,Kochi,Madras,2024-01-04 07:00,2024-01-04 07:00,5h 27m,0,6E,IndiGo Airlines,7815,Good
+FL-81,Kochi,Trivandrum,2024-01-04 08:00,2024-01-04 08:00,1h 29m,0,6E,IndiGo Airlines,14900,Good
+FL-82,Delhi,Ahmedabad,2024-01-04 09:00,2024-01-04 09:00,2h 48m,0,6E,IndiGo Airlines,8062,Good
+FL-83,Delhi,Bhubaneswar,2024-01-04 10:00,2024-01-04 10:00,2h 27m,0,6E,IndiGo Airlines,4011,Good
+FL-84,Delhi,Baroda,2024-01-04 11:00,2024-01-04 11:00,2h 3m,0,6E,IndiGo Airlines,8582,Good
+FL-85,Delhi,Bangalore,2024-01-04 12:00,2024-01-04 12:00,5h 22m,0,6E,IndiGo Airlines,12019,Excellent
+FL-86,Delhi,Mumbai,2024-01-04 13:00,2024-01-04 13:00,2h 31m,0,6E,IndiGo Airlines,5144,Excellent
+FL-87,Delhi,Kolkata,2024-01-04 14:00,2024-01-04 14:00,2h 32m,0,6E,IndiGo Airlines,11918,Good
+FL-88,Delhi,Coimbatore,2024-01-04 15:00,2024-01-04 15:00,3h 9m,0,6E,IndiGo Airlines,9861,Excellent
+FL-89,Delhi,Kochi,2024-01-04 16:00,2024-01-04 16:00,4h 14m,0,6E,IndiGo Airlines,14738,Good
+FL-90,Delhi,Mohanbari,2024-01-04 17:00,2024-01-04 17:00,3h 6m,0,6E,IndiGo Airlines,14379,Excellent
+FL-91,Delhi,Guwahati,2024-01-04 18:00,2024-01-04 18:00,5h 24m,0,6E,IndiGo Airlines,5172,Good
+FL-92,Delhi,Goa,2024-01-04 19:00,2024-01-04 19:00,5h 46m,0,6E,IndiGo Airlines,4923,Excellent
+FL-93,Delhi,Hyderabad,2024-01-04 20:00,2024-01-04 20:00,4h 54m,0,6E,IndiGo Airlines,12463,Excellent
+FL-94,Delhi,Indore,2024-01-04 21:00,2024-01-04 21:00,2h 25m,0,6E,IndiGo Airlines,6549,Good
+FL-95,Delhi,Baghdogra,2024-01-04 22:00,2024-01-04 22:00,5h 21m,0,6E,IndiGo Airlines,5438,Excellent
+FL-96,Delhi,Jammu,2024-01-04 23:00,2024-01-04 23:00,1h 27m,0,6E,IndiGo Airlines,9473,Excellent
+FL-97,Delhi,Ranchi,2024-01-05 00:00,2024-01-05 00:00,3h 9m,0,6E,IndiGo Airlines,4208,Good
+FL-98,Delhi,Lucknow,2024-01-05 01:00,2024-01-05 01:00,2h 38m,0,6E,IndiGo Airlines,9067,Good
+FL-99,Delhi,Madras,2024-01-05 02:00,2024-01-05 02:00,4h 28m,0,6E,IndiGo Airlines,4285,Excellent
+FL-100,Delhi,Nagpur,2024-01-05 03:00,2024-01-05 03:00,1h 31m,0,6E,IndiGo Airlines,10281,Excellent
+FL-101,Delhi,Patina,2024-01-05 04:00,2024-01-05 04:00,3h 1m,0,6E,IndiGo Airlines,3611,Excellent
+FL-102,Delhi,Pune,2024-01-05 05:00,2024-01-05 05:00,4h 51m,0,6E,IndiGo Airlines,14414,Excellent
+FL-103,Delhi,Raipur,2024-01-05 06:00,2024-01-05 06:00,2h 28m,0,6E,IndiGo Airlines,11772,Excellent
+FL-104,Delhi,Srinagar,2024-01-05 07:00,2024-01-05 07:00,4h 18m,0,6E,IndiGo Airlines,5033,Good
+FL-105,Delhi,Varanasi,2024-01-05 08:00,2024-01-05 08:00,4h 17m,0,6E,IndiGo Airlines,10804,Excellent
+FL-106,Mohanbari,Kolkata,2024-01-05 09:00,2024-01-05 09:00,3h 12m,0,6E,IndiGo Airlines,12225,Excellent
+FL-107,Mohanbari,Guwahati,2024-01-05 10:00,2024-01-05 10:00,4h 31m,0,6E,IndiGo Airlines,6659,Good
+FL-108,Guwahati,Bangalore,2024-01-05 11:00,2024-01-05 11:00,2h 23m,0,6E,IndiGo Airlines,4229,Good
+FL-109,Guwahati,Mumbai,2024-01-05 12:00,2024-01-05 12:00,5h 22m,0,6E,IndiGo Airlines,3429,Excellent
+FL-110,Guwahati,Kolkata,2024-01-05 13:00,2024-01-05 13:00,1h 49m,0,6E,IndiGo Airlines,5713,Good
+FL-111,Guwahati,Delhi,2024-01-05 14:00,2024-01-05 14:00,5h 42m,0,6E,IndiGo Airlines,5328,Excellent
+FL-112,Guwahati,Imphal,2024-01-05 15:00,2024-01-05 15:00,2h 46m,0,6E,IndiGo Airlines,12798,Excellent
+FL-113,Guwahati,Agartala,2024-01-05 16:00,2024-01-05 16:00,4h 0m,0,6E,IndiGo Airlines,10153,Excellent
+FL-114,Guwahati,Baghdogra,2024-01-05 17:00,2024-01-05 17:00,5h 32m,0,6E,IndiGo Airlines,9108,Good
+FL-115,Goa,Ahmedabad,2024-01-05 18:00,2024-01-05 18:00,1h 52m,0,6E,IndiGo Airlines,13427,Excellent
+FL-116,Goa,Bangalore,2024-01-05 19:00,2024-01-05 19:00,2h 34m,0,6E,IndiGo Airlines,3615,Excellent
+FL-117,Goa,Mumbai,2024-01-05 20:00,2024-01-05 20:00,3h 37m,0,6E,IndiGo Airlines,4970,Good
+FL-118,Goa,Delhi,2024-01-05 21:00,2024-01-05 21:00,1h 16m,0,6E,IndiGo Airlines,5170,Good
+FL-119,Goa,Hyderabad,2024-01-05 22:00,2024-01-05 22:00,3h 28m,0,6E,IndiGo Airlines,10483,Excellent
+FL-120,Hyderabad,Ahmedabad,2024-01-05 23:00,2024-01-05 23:00,2h 17m,0,6E,IndiGo Airlines,5402,Good
+FL-121,Hyderabad,Bhubaneswar,2024-01-06 00:00,2024-01-06 00:00,2h 28m,0,6E,IndiGo Airlines,9243,Excellent
+FL-122,Hyderabad,Bangalore,2024-01-06 01:00,2024-01-06 01:00,5h 55m,0,6E,IndiGo Airlines,3789,Good
+FL-123,Hyderabad,Mumbai,2024-01-06 02:00,2024-01-06 02:00,1h 38m,0,6E,IndiGo Airlines,14280,Excellent
+FL-124,Hyderabad,Kolkata,2024-01-06 03:00,2024-01-06 03:00,5h 57m,0,6E,IndiGo Airlines,12286,Excellent
+FL-125,Hyderabad,Kochi,2024-01-06 04:00,2024-01-06 04:00,2h 50m,0,6E,IndiGo Airlines,10231,Good
+FL-126,Hyderabad,Delhi,2024-01-06 05:00,2024-01-06 05:00,5h 8m,0,6E,IndiGo Airlines,7691,Excellent
+FL-127,Hyderabad,Goa,2024-01-06 06:00,2024-01-06 06:00,1h 11m,0,6E,IndiGo Airlines,3879,Excellent
+FL-128,Hyderabad,Jaipur,2024-01-06 07:00,2024-01-06 07:00,5h 0m,0,6E,IndiGo Airlines,8995,Good
+FL-129,Hyderabad,Madras,2024-01-06 08:00,2024-01-06 08:00,5h 57m,0,6E,IndiGo Airlines,8397,Good
+FL-130,Hyderabad,Pune,2024-01-06 09:00,2024-01-06 09:00,5h 34m,0,6E,IndiGo Airlines,3839,Good
+FL-131,Hyderabad,Raipur,2024-01-06 10:00,2024-01-06 10:00,3h 42m,0,6E,IndiGo Airlines,10679,Excellent
+FL-132,Hyderabad,Vishakhapatnam,2024-01-06 11:00,2024-01-06 11:00,2h 31m,0,6E,IndiGo Airlines,9021,Excellent
+FL-133,Indore,Mumbai,2024-01-06 12:00,2024-01-06 12:00,2h 34m,0,6E,IndiGo Airlines,4713,Excellent
+FL-134,Indore,Delhi,2024-01-06 13:00,2024-01-06 13:00,2h 37m,0,6E,IndiGo Airlines,14688,Excellent
+FL-135,Indore,Nagpur,2024-01-06 14:00,2024-01-06 14:00,2h 23m,0,6E,IndiGo Airlines,7299,Excellent
+FL-136,Indore,Raipur,2024-01-06 15:00,2024-01-06 15:00,2h 56m,0,6E,IndiGo Airlines,3658,Excellent
+FL-137,Imphal,Kolkata,2024-01-06 16:00,2024-01-06 16:00,2h 50m,0,6E,IndiGo Airlines,6717,Good
+FL-138,Imphal,Guwahati,2024-01-06 17:00,2024-01-06 17:00,3h 35m,0,6E,IndiGo Airlines,4171,Excellent
+FL-139,Imphal,Agartala,2024-01-06 18:00,2024-01-06 18:00,2h 41m,0,6E,IndiGo Airlines,7182,Excellent
+FL-140,Agartala,Kolkata,2024-01-06 19:00,2024-01-06 19:00,4h 38m,0,6E,IndiGo Airlines,14274,Excellent
+FL-141,Agartala,Guwahati,2024-01-06 20:00,2024-01-06 20:00,2h 31m,0,6E,IndiGo Airlines,10856,Good
+FL-142,Agartala,Imphal,2024-01-06 21:00,2024-01-06 21:00,5h 34m,0,6E,IndiGo Airlines,8729,Excellent
+FL-143,Baghdogra,Kolkata,2024-01-06 22:00,2024-01-06 22:00,5h 20m,0,6E,IndiGo Airlines,5106,Good
+FL-144,Baghdogra,Delhi,2024-01-06 23:00,2024-01-06 23:00,5h 6m,0,6E,IndiGo Airlines,9791,Excellent
+FL-145,Baghdogra,Guwahati,2024-01-07 00:00,2024-01-07 00:00,2h 34m,0,6E,IndiGo Airlines,12140,Good
+FL-146,Chandigarh,Mumbai,2024-01-07 01:00,2024-01-07 01:00,1h 45m,0,6E,IndiGo Airlines,14034,Excellent
+FL-147,Jammu,Delhi,2024-01-07 02:00,2024-01-07 02:00,1h 12m,0,6E,IndiGo Airlines,5656,Excellent
+FL-148,Jammu,Srinagar,2024-01-07 03:00,2024-01-07 03:00,2h 46m,0,6E,IndiGo Airlines,14413,Excellent
+FL-149,Ranchi,Mumbai,2024-01-07 04:00,2024-01-07 04:00,4h 56m,0,6E,IndiGo Airlines,8099,Excellent
+FL-150,Ranchi,Kolkata,2024-01-07 05:00,2024-01-07 05:00,3h 45m,0,6E,IndiGo Airlines,14926,Good
+FL-151,Ranchi,Delhi,2024-01-07 06:00,2024-01-07 06:00,1h 49m,0,6E,IndiGo Airlines,13718,Good
+FL-152,Ranchi,Patina,2024-01-07 07:00,2024-01-07 07:00,5h 4m,0,6E,IndiGo Airlines,14110,Excellent
+FL-153,Jaipur,Ahmedabad,2024-01-07 08:00,2024-01-07 08:00,3h 43m,0,6E,IndiGo Airlines,4446,Good
+FL-154,Jaipur,Bangalore,2024-01-07 09:00,2024-01-07 09:00,3h 50m,0,6E,IndiGo Airlines,7317,Good
+FL-155,Jaipur,Mumbai,2024-01-07 10:00,2024-01-07 10:00,5h 30m,0,6E,IndiGo Airlines,14665,Good
+FL-156,Jaipur,Kolkata,2024-01-07 11:00,2024-01-07 11:00,1h 5m,0,6E,IndiGo Airlines,5827,Good
+FL-157,Jaipur,Hyderabad,2024-01-07 12:00,2024-01-07 12:00,1h 59m,0,6E,IndiGo Airlines,11645,Good
+FL-158,Lucknow,Bangalore,2024-01-07 13:00,2024-01-07 13:00,5h 26m,0,6E,IndiGo Airlines,12558,Excellent
+FL-159,Lucknow,Mumbai,2024-01-07 14:00,2024-01-07 14:00,1h 53m,0,6E,IndiGo Airlines,14307,Excellent
+FL-160,Lucknow,Delhi,2024-01-07 15:00,2024-01-07 15:00,2h 12m,0,6E,IndiGo Airlines,3192,Excellent
+FL-161,Lucknow,Patina,2024-01-07 16:00,2024-01-07 16:00,2h 19m,0,6E,IndiGo Airlines,12003,Excellent
+FL-162,Madras,Ahmedabad,2024-01-07 17:00,2024-01-07 17:00,2h 31m,0,6E,IndiGo Airlines,10787,Excellent
+FL-163,Madras,Bangalore,2024-01-07 18:00,2024-01-07 18:00,2h 31m,0,6E,IndiGo Airlines,12506,Excellent
+FL-164,Madras,Mumbai,2024-01-07 19:00,2024-01-07 19:00,5h 11m,0,6E,IndiGo Airlines,6849,Good
+FL-165,Madras,Kolkata,2024-01-07 20:00,2024-01-07 20:00,4h 22m,0,6E,IndiGo Airlines,12017,Good
+FL-166,Madras,Coimbatore,2024-01-07 21:00,2024-01-07 21:00,1h 13m,0,6E,IndiGo Airlines,13211,Good
+FL-167,Madras,Kochi,2024-01-07 22:00,2024-01-07 22:00,2h 32m,0,6E,IndiGo Airlines,8318,Good
+FL-168,Madras,Delhi,2024-01-07 23:00,2024-01-07 23:00,3h 19m,0,6E,IndiGo Airlines,4323,Excellent
+FL-169,Madras,Hyderabad,2024-01-08 00:00,2024-01-08 00:00,1h 48m,0,6E,IndiGo Airlines,6975,Good
+FL-170,Madras,Pune,2024-01-08 01:00,2024-01-08 01:00,2h 26m,0,6E,IndiGo Airlines,3690,Excellent
+FL-171,Madras,Trivandrum,2024-01-08 02:00,2024-01-08 02:00,5h 16m,0,6E,IndiGo Airlines,8723,Good
+FL-172,Madras,Vishakhapatnam,2024-01-08 03:00,2024-01-08 03:00,1h 13m,0,6E,IndiGo Airlines,8325,Good
+FL-173,Nagpur,Bangalore,2024-01-08 04:00,2024-01-08 04:00,3h 10m,0,6E,IndiGo Airlines,12983,Good
+FL-174,Nagpur,Mumbai,2024-01-08 05:00,2024-01-08 05:00,3h 54m,0,6E,IndiGo Airlines,12865,Good
+FL-175,Nagpur,Kolkata,2024-01-08 06:00,2024-01-08 06:00,5h 32m,0,6E,IndiGo Airlines,9344,Good
+FL-176,Nagpur,Delhi,2024-01-08 07:00,2024-01-08 07:00,2h 28m,0,6E,IndiGo Airlines,6883,Excellent
+FL-177,Nagpur,Indore,2024-01-08 08:00,2024-01-08 08:00,2h 3m,0,6E,IndiGo Airlines,4956,Good
+FL-178,Nagpur,Pune,2024-01-08 09:00,2024-01-08 09:00,5h 26m,0,6E,IndiGo Airlines,14346,Excellent
+FL-179,Patina,Kolkata,2024-01-08 10:00,2024-01-08 10:00,4h 45m,0,6E,IndiGo Airlines,5421,Good
+FL-180,Patina,Delhi,2024-01-08 11:00,2024-01-08 11:00,1h 11m,0,6E,IndiGo Airlines,13459,Good
+FL-181,Patina,Ranchi,2024-01-08 12:00,2024-01-08 12:00,5h 3m,0,6E,IndiGo Airlines,9153,Good
+FL-182,Patina,Lucknow,2024-01-08 13:00,2024-01-08 13:00,2h 1m,0,6E,IndiGo Airlines,4416,Excellent
+FL-183,Pune,Ahmedabad,2024-01-08 14:00,2024-01-08 14:00,3h 20m,0,6E,IndiGo Airlines,3209,Excellent
+FL-184,Pune,Bangalore,2024-01-08 15:00,2024-01-08 15:00,3h 12m,0,6E,IndiGo Airlines,10420,Excellent
+FL-185,Pune,Kolkata,2024-01-08 16:00,2024-01-08 16:00,1h 41m,0,6E,IndiGo Airlines,6609,Good
+FL-186,Pune,Delhi,2024-01-08 17:00,2024-01-08 17:00,5h 14m,0,6E,IndiGo Airlines,14385,Excellent
+FL-187,Pune,Hyderabad,2024-01-08 18:00,2024-01-08 18:00,5h 50m,0,6E,IndiGo Airlines,9711,Good
+FL-188,Pune,Madras,2024-01-08 19:00,2024-01-08 19:00,3h 7m,0,6E,IndiGo Airlines,7555,Good
+FL-189,Pune,Nagpur,2024-01-08 20:00,2024-01-08 20:00,5h 9m,0,6E,IndiGo Airlines,10811,Good
+FL-190,Raipur,Kolkata,2024-01-08 21:00,2024-01-08 21:00,2h 28m,0,6E,IndiGo Airlines,14169,Good
+FL-191,Raipur,Delhi,2024-01-08 22:00,2024-01-08 22:00,2h 1m,0,6E,IndiGo Airlines,14925,Excellent
+FL-192,Raipur,Hyderabad,2024-01-08 23:00,2024-01-08 23:00,1h 52m,0,6E,IndiGo Airlines,5038,Excellent
+FL-193,Raipur,Indore,2024-01-09 00:00,2024-01-09 00:00,2h 38m,0,6E,IndiGo Airlines,6899,Good
+FL-194,Srinagar,Mumbai,2024-01-09 01:00,2024-01-09 01:00,4h 57m,0,6E,IndiGo Airlines,7447,Excellent
+FL-195,Srinagar,Delhi,2024-01-09 02:00,2024-01-09 02:00,2h 45m,0,6E,IndiGo Airlines,6876,Excellent
+FL-196,Srinagar,Jammu,2024-01-09 03:00,2024-01-09 03:00,2h 52m,0,6E,IndiGo Airlines,11470,Excellent
+FL-197,Trivandrum,Bangalore,2024-01-09 04:00,2024-01-09 04:00,1h 21m,0,6E,IndiGo Airlines,3783,Good
+FL-198,Trivandrum,Mumbai,2024-01-09 05:00,2024-01-09 05:00,1h 33m,0,6E,IndiGo Airlines,6467,Good
+FL-199,Trivandrum,Kochi,2024-01-09 06:00,2024-01-09 06:00,3h 50m,0,6E,IndiGo Airlines,3290,Excellent
+FL-200,Trivandrum,Madras,2024-01-09 07:00,2024-01-09 07:00,4h 41m,0,6E,IndiGo Airlines,14516,Excellent
+FL-201,Varanasi,Delhi,2024-01-09 08:00,2024-01-09 08:00,4h 4m,0,6E,IndiGo Airlines,10948,Good
+FL-202,Vishakhapatnam,Bhubaneswar,2024-01-09 09:00,2024-01-09 09:00,2h 43m,0,6E,IndiGo Airlines,7288,Excellent
+FL-203,Vishakhapatnam,Bangalore,2024-01-09 10:00,2024-01-09 10:00,4h 34m,0,6E,IndiGo Airlines,4728,Good
+FL-204,Vishakhapatnam,Hyderabad,2024-01-09 11:00,2024-01-09 11:00,5h 33m,0,6E,IndiGo Airlines,14752,Excellent
+FL-205,Vishakhapatnam,Madras,2024-01-09 12:00,2024-01-09 12:00,1h 35m,0,6E,IndiGo Airlines,13206,Good
+FL-206,Aizwal,Kolkata,2024-01-09 13:00,2024-01-09 13:00,2h 9m,0,9W,Jet Airways,3592,Excellent
+FL-207,Aizwal,Guwahati,2024-01-09 14:00,2024-01-09 14:00,3h 30m,0,9W,Jet Airways,10875,Good
+FL-208,Ahmedabad,Mumbai,2024-01-09 15:00,2024-01-09 15:00,4h 12m,0,9W,Jet Airways,12532,Excellent
+FL-209,Ahmedabad,Delhi,2024-01-09 16:00,2024-01-09 16:00,2h 12m,0,9W,Jet Airways,8422,Good
+FL-210,Amritsar,Delhi,2024-01-09 17:00,2024-01-09 17:00,2h 33m,0,9W,Jet Airways,11367,Excellent
+FL-211,Baroda,Mumbai,2024-01-09 18:00,2024-01-09 18:00,3h 10m,0,9W,Jet Airways,8245,Excellent
+FL-212,Bhuj,Mumbai,2024-01-09 19:00,2024-01-09 19:00,2h 11m,0,9W,Jet Airways,14350,Good
+FL-213,Bhopal,Mumbai,2024-01-09 20:00,2024-01-09 20:00,1h 38m,0,9W,Jet Airways,3111,Good
+FL-214,Bhopal,Delhi,2024-01-09 21:00,2024-01-09 21:00,2h 36m,0,9W,Jet Airways,5683,Good
+FL-215,Bhaunagar,Mumbai,2024-01-09 22:00,2024-01-09 22:00,4h 40m,0,9W,Jet Airways,8438,Good
+FL-216,Bangalore,Mumbai,2024-01-09 23:00,2024-01-09 23:00,5h 1m,0,9W,Jet Airways,7545,Good
+FL-217,Bangalore,Kolkata,2024-01-10 00:00,2024-01-10 00:00,3h 57m,0,9W,Jet Airways,5355,Good
+FL-218,Bangalore,Coimbatore,2024-01-10 01:00,2024-01-10 01:00,1h 25m,0,9W,Jet Airways,7854,Excellent
+FL-219,Bangalore,Kochi,2024-01-10 02:00,2024-01-10 02:00,4h 6m,0,9W,Jet Airways,12063,Excellent
+FL-220,Bangalore,Delhi,2024-01-10 03:00,2024-01-10 03:00,2h 49m,0,9W,Jet Airways,11039,Good
+FL-221,Bangalore,Goa,2024-01-10 04:00,2024-01-10 04:00,1h 48m,0,9W,Jet Airways,7886,Excellent
+FL-222,Bangalore,Hyderabad,2024-01-10 05:00,2024-01-10 05:00,1h 21m,0,9W,Jet Airways,3447,Excellent
+FL-223,Bangalore,Indore,2024-01-10 06:00,2024-01-10 06:00,4h 6m,0,9W,Jet Airways,3871,Good
+FL-224,Bangalore,Mangalore,2024-01-10 07:00,2024-01-10 07:00,2h 53m,0,9W,Jet Airways,13576,Good
+FL-225,Bangalore,Madras,2024-01-10 08:00,2024-01-10 08:00,3h 34m,0,9W,Jet Airways,4552,Excellent
+FL-226,Bangalore,Pune,2024-01-10 09:00,2024-01-10 09:00,4h 15m,0,9W,Jet Airways,8644,Good
+FL-227,Bangalore,Trivandrum,2024-01-10 10:00,2024-01-10 10:00,2h 4m,0,9W,Jet Airways,3189,Good
+FL-228,Bangalore,Vishakhapatnam,2024-01-10 11:00,2024-01-10 11:00,3h 24m,0,9W,Jet Airways,4471,Excellent
+FL-229,Mumbai,Ahmedabad,2024-01-10 12:00,2024-01-10 12:00,3h 15m,0,9W,Jet Airways,14709,Excellent
+FL-230,Mumbai,Baroda,2024-01-10 13:00,2024-01-10 13:00,2h 3m,0,9W,Jet Airways,11083,Excellent
+FL-231,Mumbai,Bhuj,2024-01-10 14:00,2024-01-10 14:00,5h 8m,0,9W,Jet Airways,14849,Excellent
+FL-232,Mumbai,Bhopal,2024-01-10 15:00,2024-01-10 15:00,2h 20m,0,9W,Jet Airways,12294,Good
+FL-233,Mumbai,Bhaunagar,2024-01-10 16:00,2024-01-10 16:00,5h 54m,0,9W,Jet Airways,6369,Excellent
+FL-234,Mumbai,Bangalore,2024-01-10 17:00,2024-01-10 17:00,5h 23m,0,9W,Jet Airways,3122,Excellent
+FL-235,Mumbai,Calicut,2024-01-10 18:00,2024-01-10 18:00,4h 36m,0,9W,Jet Airways,7995,Excellent
+FL-236,Mumbai,Kolkata,2024-01-10 19:00,2024-01-10 19:00,3h 39m,0,9W,Jet Airways,14609,Good
+FL-237,Mumbai,Coimbatore,2024-01-10 20:00,2024-01-10 20:00,5h 10m,0,9W,Jet Airways,10977,Excellent
+FL-238,Mumbai,Kochi,2024-01-10 21:00,2024-01-10 21:00,4h 26m,0,9W,Jet Airways,5077,Good
+FL-239,Mumbai,Delhi,2024-01-10 22:00,2024-01-10 22:00,2h 42m,0,9W,Jet Airways,8728,Good
+FL-240,Mumbai,Diu,2024-01-10 23:00,2024-01-10 23:00,5h 36m,0,9W,Jet Airways,10898,Excellent
+FL-241,Mumbai,Goa,2024-01-11 00:00,2024-01-11 00:00,5h 39m,0,9W,Jet Airways,12066,Excellent
+FL-242,Mumbai,Hyderabad,2024-01-11 01:00,2024-01-11 01:00,4h 50m,0,9W,Jet Airways,3963,Excellent
+FL-243,Mumbai,Indore,2024-01-11 02:00,2024-01-11 02:00,2h 3m,0,9W,Jet Airways,4892,Excellent
+FL-244,Mumbai,Chandigarh,2024-01-11 03:00,2024-01-11 03:00,3h 47m,0,9W,Jet Airways,5348,Good
+FL-245,Mumbai,Mangalore,2024-01-11 04:00,2024-01-11 04:00,2h 12m,0,9W,Jet Airways,6429,Excellent
+FL-246,Mumbai,Aurangabad,2024-01-11 05:00,2024-01-11 05:00,3h 37m,0,9W,Jet Airways,3417,Excellent
+FL-247,Mumbai,Jaipur,2024-01-11 06:00,2024-01-11 06:00,5h 26m,0,9W,Jet Airways,3917,Good
+FL-248,Mumbai,Jodhpur,2024-01-11 07:00,2024-01-11 07:00,1h 2m,0,9W,Jet Airways,3927,Good
+FL-249,Mumbai,Lucknow,2024-01-11 08:00,2024-01-11 08:00,2h 14m,0,9W,Jet Airways,12845,Good
+FL-250,Mumbai,Madras,2024-01-11 09:00,2024-01-11 09:00,1h 7m,0,9W,Jet Airways,10504,Excellent
+FL-251,Mumbai,Nagpur,2024-01-11 10:00,2024-01-11 10:00,1h 12m,0,9W,Jet Airways,10940,Excellent
+FL-252,Mumbai,Pune,2024-01-11 11:00,2024-01-11 11:00,3h 34m,0,9W,Jet Airways,5729,Good
+FL-253,Mumbai,Rajkot,2024-01-11 12:00,2024-01-11 12:00,1h 49m,0,9W,Jet Airways,4914,Excellent
+FL-254,Mumbai,Raipur,2024-01-11 13:00,2024-01-11 13:00,4h 49m,0,9W,Jet Airways,12205,Good
+FL-255,Mumbai,Trivandrum,2024-01-11 14:00,2024-01-11 14:00,4h 13m,0,9W,Jet Airways,10118,Good
+FL-256,Mumbai,Udaipur,2024-01-11 15:00,2024-01-11 15:00,5h 32m,0,9W,Jet Airways,4373,Excellent
+FL-257,Mumbai,Vishakhapatnam,2024-01-11 16:00,2024-01-11 16:00,5h 51m,0,9W,Jet Airways,10476,Good
+FL-258,Calicut,Mumbai,2024-01-11 17:00,2024-01-11 17:00,3h 20m,0,9W,Jet Airways,14245,Excellent
+FL-259,Kolkata,Aizwal,2024-01-11 18:00,2024-01-11 18:00,2h 12m,0,9W,Jet Airways,10837,Good
+FL-260,Kolkata,Bangalore,2024-01-11 19:00,2024-01-11 19:00,1h 16m,0,9W,Jet Airways,6471,Good
+FL-261,Kolkata,Mumbai,2024-01-11 20:00,2024-01-11 20:00,3h 55m,0,9W,Jet Airways,6119,Excellent
+FL-262,Kolkata,Delhi,2024-01-11 21:00,2024-01-11 21:00,3h 36m,0,9W,Jet Airways,9783,Excellent
+FL-263,Kolkata,Guwahati,2024-01-11 22:00,2024-01-11 22:00,5h 45m,0,9W,Jet Airways,14661,Excellent
+FL-264,Kolkata,Agartala,2024-01-11 23:00,2024-01-11 23:00,3h 11m,0,9W,Jet Airways,7863,Excellent
+FL-265,Kolkata,Baghdogra,2024-01-12 00:00,2024-01-12 00:00,1h 4m,0,9W,Jet Airways,8771,Good
+FL-266,Kolkata,Ranchi,2024-01-12 01:00,2024-01-12 01:00,4h 56m,0,9W,Jet Airways,4230,Good
+FL-267,Kolkata,Silchar,2024-01-12 02:00,2024-01-12 02:00,3h 59m,0,9W,Jet Airways,5882,Good
+FL-268,Kolkata,Port Blair,2024-01-12 03:00,2024-01-12 03:00,2h 16m,0,9W,Jet Airways,4583,Excellent
+FL-269,Kolkata,Patina,2024-01-12 04:00,2024-01-12 04:00,3h 30m,0,9W,Jet Airways,12937,Good
+FL-270,Kolkata,Varanasi,2024-01-12 05:00,2024-01-12 05:00,3h 19m,0,9W,Jet Airways,7050,Good
+FL-271,Kolkata,Vishakhapatnam,2024-01-12 06:00,2024-01-12 06:00,2h 57m,0,9W,Jet Airways,12645,Excellent
+FL-272,Coimbatore,Bangalore,2024-01-12 07:00,2024-01-12 07:00,2h 44m,0,9W,Jet Airways,9595,Good
+FL-273,Coimbatore,Mumbai,2024-01-12 08:00,2024-01-12 08:00,5h 59m,0,9W,Jet Airways,4516,Good
+FL-274,Coimbatore,Madras,2024-01-12 09:00,2024-01-12 09:00,4h 22m,0,9W,Jet Airways,4061,Excellent
+FL-275,Kochi,Bangalore,2024-01-12 10:00,2024-01-12 10:00,3h 53m,0,9W,Jet Airways,10422,Good
+FL-276,Kochi,Mumbai,2024-01-12 11:00,2024-01-12 11:00,4h 32m,0,9W,Jet Airways,14463,Excellent
+FL-277,Kochi,Madras,2024-01-12 12:00,2024-01-12 12:00,3h 52m,0,9W,Jet Airways,12530,Excellent
+FL-278,Dehra Dun,Delhi,2024-01-12 13:00,2024-01-12 13:00,4h 45m,0,9W,Jet Airways,11398,Good
+FL-279,Delhi,Ahmedabad,2024-01-12 14:00,2024-01-12 14:00,5h 30m,0,9W,Jet Airways,4161,Excellent
+FL-280,Delhi,Amritsar,2024-01-12 15:00,2024-01-12 15:00,3h 2m,0,9W,Jet Airways,6186,Good
+FL-281,Delhi,Bhopal,2024-01-12 16:00,2024-01-12 16:00,2h 25m,0,9W,Jet Airways,3369,Good
+FL-282,Delhi,Bangalore,2024-01-12 17:00,2024-01-12 17:00,3h 25m,0,9W,Jet Airways,10770,Excellent
+FL-283,Delhi,Mumbai,2024-01-12 18:00,2024-01-12 18:00,3h 28m,0,9W,Jet Airways,13055,Excellent
+FL-284,Delhi,Kolkata,2024-01-12 19:00,2024-01-12 19:00,2h 13m,0,9W,Jet Airways,4448,Excellent
+FL-285,Delhi,Dehra Dun,2024-01-12 20:00,2024-01-12 20:00,2h 30m,0,9W,Jet Airways,12680,Excellent
+FL-286,Delhi,Guwahati,2024-01-12 21:00,2024-01-12 21:00,2h 57m,0,9W,Jet Airways,6466,Excellent
+FL-287,Delhi,Gorakhpur,2024-01-12 22:00,2024-01-12 22:00,1h 27m,0,9W,Jet Airways,11707,Good
+FL-288,Delhi,Hyderabad,2024-01-12 23:00,2024-01-12 23:00,3h 7m,0,9W,Jet Airways,14206,Good
+FL-289,Delhi,Indore,2024-01-13 00:00,2024-01-13 00:00,4h 16m,0,9W,Jet Airways,11999,Excellent
+FL-290,Delhi,Baghdogra,2024-01-13 01:00,2024-01-13 01:00,1h 13m,0,9W,Jet Airways,10642,Good
+FL-291,Delhi,Chandigarh,2024-01-13 02:00,2024-01-13 02:00,4h 50m,0,9W,Jet Airways,13858,Excellent
+FL-292,Delhi,Jammu,2024-01-13 03:00,2024-01-13 03:00,5h 4m,0,9W,Jet Airways,7075,Excellent
+FL-293,Delhi,Leh,2024-01-13 04:00,2024-01-13 04:00,2h 4m,0,9W,Jet Airways,12226,Excellent
+FL-294,Delhi,Ranchi,2024-01-13 05:00,2024-01-13 05:00,3h 13m,0,9W,Jet Airways,9548,Good
+FL-295,Delhi,Jaipur,2024-01-13 06:00,2024-01-13 06:00,4h 11m,0,9W,Jet Airways,11845,Good
+FL-296,Delhi,Jodhpur,2024-01-13 07:00,2024-01-13 07:00,5h 3m,0,9W,Jet Airways,14707,Excellent
+FL-297,Delhi,Lucknow,2024-01-13 08:00,2024-01-13 08:00,1h 2m,0,9W,Jet Airways,4260,Good
+FL-298,Delhi,Madras,2024-01-13 09:00,2024-01-13 09:00,2h 21m,0,9W,Jet Airways,8245,Good
+FL-299,Delhi,Patina,2024-01-13 10:00,2024-01-13 10:00,3h 56m,0,9W,Jet Airways,14714,Excellent
+FL-300,Delhi,Pune,2024-01-13 11:00,2024-01-13 11:00,2h 37m,0,9W,Jet Airways,4722,Excellent
+FL-301,Delhi,Raipur,2024-01-13 12:00,2024-01-13 12:00,5h 42m,0,9W,Jet Airways,14289,Good
+FL-302,Delhi,Srinagar,2024-01-13 13:00,2024-01-13 13:00,3h 33m,0,9W,Jet Airways,6838,Excellent
+FL-303,Delhi,Udaipur,2024-01-13 14:00,2024-01-13 14:00,5h 37m,0,9W,Jet Airways,4952,Good
+FL-304,Delhi,Varanasi,2024-01-13 15:00,2024-01-13 15:00,4h 44m,0,9W,Jet Airways,12162,Excellent
+FL-305,Mohanbari,Guwahati,2024-01-13 16:00,2024-01-13 16:00,4h 1m,0,9W,Jet Airways,14429,Excellent
+FL-306,Diu,Porbandar,2024-01-13 17:00,2024-01-13 17:00,5h 2m,0,9W,Jet Airways,13718,Excellent
+FL-307,Guwahati,Aizwal,2024-01-13 18:00,2024-01-13 18:00,1h 56m,0,9W,Jet Airways,3455,Good
+FL-308,Guwahati,Kolkata,2024-01-13 19:00,2024-01-13 19:00,2h 23m,0,9W,Jet Airways,5754,Excellent
+FL-309,Guwahati,Delhi,2024-01-13 20:00,2024-01-13 20:00,3h 22m,0,9W,Jet Airways,11795,Good
+FL-310,Guwahati,Mohanbari,2024-01-13 21:00,2024-01-13 21:00,5h 11m,0,9W,Jet Airways,6060,Good
+FL-311,Guwahati,Imphal,2024-01-13 22:00,2024-01-13 22:00,1h 15m,0,9W,Jet Airways,5126,Good
+FL-312,Guwahati,Silchar,2024-01-13 23:00,2024-01-13 23:00,1h 3m,0,9W,Jet Airways,3023,Excellent
+FL-313,Goa,Bangalore,2024-01-14 00:00,2024-01-14 00:00,2h 58m,0,9W,Jet Airways,14479,Excellent
+FL-314,Goa,Mumbai,2024-01-14 01:00,2024-01-14 01:00,1h 48m,0,9W,Jet Airways,13215,Excellent
+FL-315,Goa,Madras,2024-01-14 02:00,2024-01-14 02:00,3h 5m,0,9W,Jet Airways,14746,Excellent
+FL-316,Gorakhpur,Delhi,2024-01-14 03:00,2024-01-14 03:00,3h 40m,0,9W,Jet Airways,12185,Excellent
+FL-317,Hyderabad,Bangalore,2024-01-14 04:00,2024-01-14 04:00,5h 49m,0,9W,Jet Airways,4787,Good
+FL-318,Hyderabad,Mumbai,2024-01-14 05:00,2024-01-14 05:00,4h 15m,0,9W,Jet Airways,5655,Excellent
+FL-319,Hyderabad,Delhi,2024-01-14 06:00,2024-01-14 06:00,1h 18m,0,9W,Jet Airways,3981,Good
+FL-320,Hyderabad,Madras,2024-01-14 07:00,2024-01-14 07:00,5h 5m,0,9W,Jet Airways,12905,Good
+FL-321,Hyderabad,Pune,2024-01-14 08:00,2024-01-14 08:00,1h 44m,0,9W,Jet Airways,9406,Excellent
+FL-322,Hyderabad,Rajahmundry,2024-01-14 09:00,2024-01-14 09:00,5h 20m,0,9W,Jet Airways,12376,Good
+FL-323,Indore,Bangalore,2024-01-14 10:00,2024-01-14 10:00,5h 28m,0,9W,Jet Airways,11365,Excellent
+FL-324,Indore,Mumbai,2024-01-14 11:00,2024-01-14 11:00,5h 33m,0,9W,Jet Airways,7016,Good
+FL-325,Indore,Delhi,2024-01-14 12:00,2024-01-14 12:00,5h 43m,0,9W,Jet Airways,7442,Good
+FL-326,Indore,Pune,2024-01-14 13:00,2024-01-14 13:00,3h 54m,0,9W,Jet Airways,14844,Excellent
+FL-327,Imphal,Guwahati,2024-01-14 14:00,2024-01-14 14:00,4h 56m,0,9W,Jet Airways,8216,Excellent
+FL-328,Agartala,Kolkata,2024-01-14 15:00,2024-01-14 15:00,2h 39m,0,9W,Jet Airways,12206,Excellent
+FL-329,Baghdogra,Kolkata,2024-01-14 16:00,2024-01-14 16:00,4h 58m,0,9W,Jet Airways,3957,Good
+FL-330,Baghdogra,Delhi,2024-01-14 17:00,2024-01-14 17:00,2h 42m,0,9W,Jet Airways,9289,Excellent
+FL-331,Chandigarh,Mumbai,2024-01-14 18:00,2024-01-14 18:00,5h 30m,0,9W,Jet Airways,7646,Excellent
+FL-332,Chandigarh,Delhi,2024-01-14 19:00,2024-01-14 19:00,1h 0m,0,9W,Jet Airways,14674,Excellent
+FL-333,Mangalore,Bangalore,2024-01-14 20:00,2024-01-14 20:00,3h 11m,0,9W,Jet Airways,6396,Good
+FL-334,Mangalore,Mumbai,2024-01-14 21:00,2024-01-14 21:00,5h 35m,0,9W,Jet Airways,7351,Good
+FL-335,Jammu,Delhi,2024-01-14 22:00,2024-01-14 22:00,2h 29m,0,9W,Jet Airways,14411,Good
+FL-336,Leh,Delhi,2024-01-14 23:00,2024-01-14 23:00,5h 31m,0,9W,Jet Airways,6483,Good
+FL-337,Madurai,Madras,2024-01-15 00:00,2024-01-15 00:00,1h 45m,0,9W,Jet Airways,11147,Excellent
+FL-338,Ranchi,Kolkata,2024-01-15 01:00,2024-01-15 01:00,3h 35m,0,9W,Jet Airways,8927,Good
+FL-339,Ranchi,Delhi,2024-01-15 02:00,2024-01-15 02:00,3h 3m,0,9W,Jet Airways,3214,Good
+FL-340,Silchar,Kolkata,2024-01-15 03:00,2024-01-15 03:00,4h 40m,0,9W,Jet Airways,3905,Excellent
+FL-341,Silchar,Guwahati,2024-01-15 04:00,2024-01-15 04:00,3h 30m,0,9W,Jet Airways,4657,Excellent
+FL-342,Aurangabad,Mumbai,2024-01-15 05:00,2024-01-15 05:00,1h 4m,0,9W,Jet Airways,3768,Good
+FL-343,Port Blair,Kolkata,2024-01-15 06:00,2024-01-15 06:00,2h 32m,0,9W,Jet Airways,9798,Good
+FL-344,Port Blair,Madras,2024-01-15 07:00,2024-01-15 07:00,1h 28m,0,9W,Jet Airways,8874,Excellent
+FL-345,Jaipur,Mumbai,2024-01-15 08:00,2024-01-15 08:00,2h 58m,0,9W,Jet Airways,12819,Excellent
+FL-346,Jaipur,Delhi,2024-01-15 09:00,2024-01-15 09:00,1h 54m,0,9W,Jet Airways,9702,Good
+FL-347,Jodhpur,Mumbai,2024-01-15 10:00,2024-01-15 10:00,2h 16m,0,9W,Jet Airways,12327,Excellent
+FL-348,Jodhpur,Delhi,2024-01-15 11:00,2024-01-15 11:00,5h 22m,0,9W,Jet Airways,4849,Excellent
+FL-349,Lucknow,Mumbai,2024-01-15 12:00,2024-01-15 12:00,2h 6m,0,9W,Jet Airways,13762,Excellent
+FL-350,Lucknow,Delhi,2024-01-15 13:00,2024-01-15 13:00,2h 58m,0,9W,Jet Airways,6509,Excellent
+FL-351,Madras,Bangalore,2024-01-15 14:00,2024-01-15 14:00,4h 25m,0,9W,Jet Airways,9430,Good
+FL-352,Madras,Mumbai,2024-01-15 15:00,2024-01-15 15:00,1h 55m,0,9W,Jet Airways,5363,Excellent
+FL-353,Madras,Coimbatore,2024-01-15 16:00,2024-01-15 16:00,5h 46m,0,9W,Jet Airways,3067,Good
+FL-354,Madras,Kochi,2024-01-15 17:00,2024-01-15 17:00,3h 28m,0,9W,Jet Airways,6337,Excellent
+FL-355,Madras,Delhi,2024-01-15 18:00,2024-01-15 18:00,1h 32m,0,9W,Jet Airways,10831,Excellent
+FL-356,Madras,Goa,2024-01-15 19:00,2024-01-15 19:00,3h 41m,0,9W,Jet Airways,12319,Excellent
+FL-357,Madras,Hyderabad,2024-01-15 20:00,2024-01-15 20:00,1h 56m,0,9W,Jet Airways,5851,Excellent
+FL-358,Madras,Madurai,2024-01-15 21:00,2024-01-15 21:00,3h 4m,0,9W,Jet Airways,8368,Good
+FL-359,Madras,Port Blair,2024-01-15 22:00,2024-01-15 22:00,2h 35m,0,9W,Jet Airways,10217,Good
+FL-360,Madras,Tiruchirappalli,2024-01-15 23:00,2024-01-15 23:00,4h 48m,0,9W,Jet Airways,4060,Excellent
+FL-361,Nagpur,Mumbai,2024-01-16 00:00,2024-01-16 00:00,4h 27m,0,9W,Jet Airways,14558,Excellent
+FL-362,Patina,Kolkata,2024-01-16 01:00,2024-01-16 01:00,3h 32m,0,9W,Jet Airways,10197,Good
+FL-363,Patina,Delhi,2024-01-16 02:00,2024-01-16 02:00,2h 49m,0,9W,Jet Airways,13268,Excellent
+FL-364,Porbandar,Mumbai,2024-01-16 03:00,2024-01-16 03:00,4h 10m,0,9W,Jet Airways,11844,Good
+FL-365,Pune,Bangalore,2024-01-16 04:00,2024-01-16 04:00,3h 33m,0,9W,Jet Airways,10728,Good
+FL-366,Pune,Mumbai,2024-01-16 05:00,2024-01-16 05:00,5h 35m,0,9W,Jet Airways,11648,Good
+FL-367,Pune,Delhi,2024-01-16 06:00,2024-01-16 06:00,4h 58m,0,9W,Jet Airways,7973,Good
+FL-368,Pune,Hyderabad,2024-01-16 07:00,2024-01-16 07:00,4h 55m,0,9W,Jet Airways,7825,Excellent
+FL-369,Pune,Indore,2024-01-16 08:00,2024-01-16 08:00,2h 39m,0,9W,Jet Airways,8834,Excellent
+FL-370,Rajkot,Mumbai,2024-01-16 09:00,2024-01-16 09:00,2h 24m,0,9W,Jet Airways,11885,Excellent
+FL-371,Rajahmundry,Hyderabad,2024-01-16 10:00,2024-01-16 10:00,5h 25m,0,9W,Jet Airways,3157,Good
+FL-372,Raipur,Bhopal,2024-01-16 11:00,2024-01-16 11:00,4h 49m,0,9W,Jet Airways,5618,Excellent
+FL-373,Raipur,Mumbai,2024-01-16 12:00,2024-01-16 12:00,2h 48m,0,9W,Jet Airways,6855,Excellent
+FL-374,Raipur,Delhi,2024-01-16 13:00,2024-01-16 13:00,5h 46m,0,9W,Jet Airways,7099,Good
+FL-375,Srinagar,Delhi,2024-01-16 14:00,2024-01-16 14:00,3h 35m,0,9W,Jet Airways,8931,Good
+FL-376,Trivandrum,Bangalore,2024-01-16 15:00,2024-01-16 15:00,1h 59m,0,9W,Jet Airways,8230,Excellent
+FL-377,Trivandrum,Mumbai,2024-01-16 16:00,2024-01-16 16:00,5h 2m,0,9W,Jet Airways,8255,Good
+FL-378,Tiruchirappalli,Madras,2024-01-16 17:00,2024-01-16 17:00,5h 54m,0,9W,Jet Airways,9756,Excellent
+FL-379,Udaipur,Mumbai,2024-01-16 18:00,2024-01-16 18:00,5h 2m,0,9W,Jet Airways,8224,Good
+FL-380,Udaipur,Delhi,2024-01-16 19:00,2024-01-16 19:00,5h 22m,0,9W,Jet Airways,4953,Good
+FL-381,Varanasi,Kolkata,2024-01-16 20:00,2024-01-16 20:00,2h 5m,0,9W,Jet Airways,8937,Good
+FL-382,Varanasi,Delhi,2024-01-16 21:00,2024-01-16 21:00,2h 12m,0,9W,Jet Airways,10134,Good
+FL-383,Vishakhapatnam,Bangalore,2024-01-16 22:00,2024-01-16 22:00,5h 45m,0,9W,Jet Airways,6628,Good
+FL-384,Vishakhapatnam,Mumbai,2024-01-16 23:00,2024-01-16 23:00,5h 46m,0,9W,Jet Airways,5755,Excellent
+FL-385,Vishakhapatnam,Kolkata,2024-01-17 00:00,2024-01-17 00:00,3h 16m,0,9W,Jet Airways,13310,Excellent
+FL-386,Agra,Mumbai,2024-01-17 01:00,2024-01-17 01:00,4h 57m,0,AI,Air India Limited,12723,Good
+FL-387,Agra,Khajuraho,2024-01-17 02:00,2024-01-17 02:00,5h 35m,0,AI,Air India Limited,9696,Good
+FL-388,Agatti Island,Kochi,2024-01-17 03:00,2024-01-17 03:00,5h 46m,0,AI,Air India Limited,9908,Good
+FL-389,Aizwal,Kolkata,2024-01-17 04:00,2024-01-17 04:00,1h 34m,0,AI,Air India Limited,6399,Excellent
+FL-390,Aizwal,Imphal,2024-01-17 05:00,2024-01-17 05:00,2h 9m,0,AI,Air India Limited,3722,Good
+FL-391,Ahmedabad,Mumbai,2024-01-17 06:00,2024-01-17 06:00,3h 11m,0,AI,Air India Limited,12769,Good
+FL-392,Ahmedabad,Delhi,2024-01-17 07:00,2024-01-17 07:00,1h 29m,0,AI,Air India Limited,11096,Excellent
+FL-393,Ahmedabad,Hyderabad,2024-01-17 08:00,2024-01-17 08:00,1h 41m,0,AI,Air India Limited,12691,Excellent
+FL-394,Amritsar,Delhi,2024-01-17 09:00,2024-01-17 09:00,5h 41m,0,AI,Air India Limited,8132,Good
+FL-395,Bhubaneswar,Mumbai,2024-01-17 10:00,2024-01-17 10:00,4h 38m,0,AI,Air India Limited,3655,Good
+FL-396,Bhubaneswar,Delhi,2024-01-17 11:00,2024-01-17 11:00,4h 4m,0,AI,Air India Limited,4750,Good
+FL-397,Bhubaneswar,Port Blair,2024-01-17 12:00,2024-01-17 12:00,5h 27m,0,AI,Air India Limited,6607,Excellent
+FL-398,Baroda,Delhi,2024-01-17 13:00,2024-01-17 13:00,5h 19m,0,AI,Air India Limited,5128,Good
+FL-399,Bhopal,Mumbai,2024-01-17 14:00,2024-01-17 14:00,5h 10m,0,AI,Air India Limited,14473,Excellent
+FL-400,Bhopal,Delhi,2024-01-17 15:00,2024-01-17 15:00,4h 44m,0,AI,Air India Limited,10495,Excellent
+FL-401,Bangalore,Mumbai,2024-01-17 16:00,2024-01-17 16:00,1h 58m,0,AI,Air India Limited,13717,Excellent
+FL-402,Bangalore,Kolkata,2024-01-17 17:00,2024-01-17 17:00,1h 43m,0,AI,Air India Limited,12759,Good
+FL-403,Bangalore,Kochi,2024-01-17 18:00,2024-01-17 18:00,5h 55m,0,AI,Air India Limited,13340,Good
+FL-404,Bangalore,Delhi,2024-01-17 19:00,2024-01-17 19:00,5h 53m,0,AI,Air India Limited,6553,Excellent
+FL-405,Bangalore,Goa,2024-01-17 20:00,2024-01-17 20:00,3h 9m,0,AI,Air India Limited,8444,Excellent
+FL-406,Bangalore,Hyderabad,2024-01-17 21:00,2024-01-17 21:00,4h 35m,0,AI,Air India Limited,10443,Good
+FL-407,Bangalore,Mangalore,2024-01-17 22:00,2024-01-17 22:00,3h 33m,0,AI,Air India Limited,4179,Good
+FL-408,Bangalore,Madras,2024-01-17 23:00,2024-01-17 23:00,2h 7m,0,AI,Air India Limited,14555,Excellent
+FL-409,Bangalore,Trivandrum,2024-01-18 00:00,2024-01-18 00:00,2h 22m,0,AI,Air India Limited,3562,Excellent
+FL-410,Mumbai,Agra,2024-01-18 01:00,2024-01-18 01:00,4h 15m,0,AI,Air India Limited,12163,Excellent
+FL-411,Mumbai,Ahmedabad,2024-01-18 02:00,2024-01-18 02:00,1h 34m,0,AI,Air India Limited,12965,Excellent
+FL-412,Mumbai,Bhubaneswar,2024-01-18 03:00,2024-01-18 03:00,3h 1m,0,AI,Air India Limited,11504,Good
+FL-413,Mumbai,Bhopal,2024-01-18 04:00,2024-01-18 04:00,3h 18m,0,AI,Air India Limited,8070,Excellent
+FL-414,Mumbai,Bangalore,2024-01-18 05:00,2024-01-18 05:00,4h 32m,0,AI,Air India Limited,5675,Excellent
+FL-415,Mumbai,Kolkata,2024-01-18 06:00,2024-01-18 06:00,1h 5m,0,AI,Air India Limited,8353,Excellent
+FL-416,Mumbai,Coimbatore,2024-01-18 07:00,2024-01-18 07:00,1h 22m,0,AI,Air India Limited,12203,Good
+FL-417,Mumbai,Kochi,2024-01-18 08:00,2024-01-18 08:00,5h 10m,0,AI,Air India Limited,10324,Good
+FL-418,Mumbai,Delhi,2024-01-18 09:00,2024-01-18 09:00,3h 59m,0,AI,Air India Limited,14075,Excellent
+FL-419,Mumbai,Goa,2024-01-18 10:00,2024-01-18 10:00,4h 38m,0,AI,Air India Limited,10447,Good
+FL-420,Mumbai,Gwalior,2024-01-18 11:00,2024-01-18 11:00,5h 36m,0,AI,Air India Limited,9396,Good
+FL-421,Mumbai,Hyderabad,2024-01-18 12:00,2024-01-18 12:00,1h 7m,0,AI,Air India Limited,11591,Good
+FL-422,Mumbai,Indore,2024-01-18 13:00,2024-01-18 13:00,4h 37m,0,AI,Air India Limited,12650,Good
+FL-423,Mumbai,Allahabad,2024-01-18 14:00,2024-01-18 14:00,2h 53m,0,AI,Air India Limited,11415,Excellent
+FL-424,Mumbai,Mangalore,2024-01-18 15:00,2024-01-18 15:00,5h 2m,0,AI,Air India Limited,8877,Good
+FL-425,Mumbai,Aurangabad,2024-01-18 16:00,2024-01-18 16:00,3h 46m,0,AI,Air India Limited,5220,Excellent
+FL-426,Mumbai,Jaipur,2024-01-18 17:00,2024-01-18 17:00,5h 22m,0,AI,Air India Limited,14920,Good
+FL-427,Mumbai,Jodhpur,2024-01-18 18:00,2024-01-18 18:00,2h 41m,0,AI,Air India Limited,3312,Excellent
+FL-428,Mumbai,Jamnagar,2024-01-18 19:00,2024-01-18 19:00,5h 56m,0,AI,Air India Limited,8665,Excellent
+FL-429,Mumbai,Lucknow,2024-01-18 20:00,2024-01-18 20:00,5h 51m,0,AI,Air India Limited,6079,Excellent
+FL-430,Mumbai,Madras,2024-01-18 21:00,2024-01-18 21:00,3h 26m,0,AI,Air India Limited,12101,Good
+FL-431,Mumbai,Nagpur,2024-01-18 22:00,2024-01-18 22:00,5h 27m,0,AI,Air India Limited,3745,Excellent
+FL-432,Mumbai,Rajkot,2024-01-18 23:00,2024-01-18 23:00,3h 3m,0,AI,Air India Limited,11492,Good
+FL-433,Mumbai,Raipur,2024-01-19 00:00,2024-01-19 00:00,3h 49m,0,AI,Air India Limited,14433,Excellent
+FL-434,Mumbai,Trivandrum,2024-01-19 01:00,2024-01-19 01:00,1h 36m,0,AI,Air India Limited,9697,Excellent
+FL-435,Mumbai,Udaipur,2024-01-19 02:00,2024-01-19 02:00,3h 0m,0,AI,Air India Limited,13446,Excellent
+FL-436,Mumbai,Varanasi,2024-01-19 03:00,2024-01-19 03:00,3h 57m,0,AI,Air India Limited,11211,Excellent
+FL-437,Calicut,Coimbatore,2024-01-19 04:00,2024-01-19 04:00,2h 31m,0,AI,Air India Limited,6704,Excellent
+FL-438,Calicut,Kochi,2024-01-19 05:00,2024-01-19 05:00,2h 32m,0,AI,Air India Limited,4483,Excellent
+FL-439,Kolkata,Aizwal,2024-01-19 06:00,2024-01-19 06:00,3h 32m,0,AI,Air India Limited,10057,Good
+FL-440,Kolkata,Bangalore,2024-01-19 07:00,2024-01-19 07:00,5h 10m,0,AI,Air India Limited,12722,Excellent
+FL-441,Kolkata,Mumbai,2024-01-19 08:00,2024-01-19 08:00,4h 30m,0,AI,Air India Limited,12809,Good
+FL-442,Kolkata,Delhi,2024-01-19 09:00,2024-01-19 09:00,4h 54m,0,AI,Air India Limited,8665,Excellent
+FL-443,Kolkata,Mohanbari,2024-01-19 10:00,2024-01-19 10:00,1h 5m,0,AI,Air India Limited,6448,Good
+FL-444,Kolkata,Dimapur,2024-01-19 11:00,2024-01-19 11:00,1h 13m,0,AI,Air India Limited,12525,Good
+FL-445,Kolkata,Guwahati,2024-01-19 12:00,2024-01-19 12:00,5h 34m,0,AI,Air India Limited,7533,Excellent
+FL-446,Kolkata,Hyderabad,2024-01-19 13:00,2024-01-19 13:00,4h 30m,0,AI,Air India Limited,4442,Good
+FL-447,Kolkata,Imphal,2024-01-19 14:00,2024-01-19 14:00,4h 27m,0,AI,Air India Limited,6311,Excellent
+FL-448,Kolkata,Agartala,2024-01-19 15:00,2024-01-19 15:00,3h 3m,0,AI,Air India Limited,7354,Good
+FL-449,Kolkata,Baghdogra,2024-01-19 16:00,2024-01-19 16:00,2h 49m,0,AI,Air India Limited,7292,Excellent
+FL-450,Kolkata,Silchar,2024-01-19 17:00,2024-01-19 17:00,3h 30m,0,AI,Air India Limited,3930,Excellent
+FL-451,Kolkata,Port Blair,2024-01-19 18:00,2024-01-19 18:00,4h 56m,0,AI,Air India Limited,7887,Good
+FL-452,Kolkata,Madras,2024-01-19 19:00,2024-01-19 19:00,2h 52m,0,AI,Air India Limited,11937,Good
+FL-453,Kolkata,Shillong,2024-01-19 20:00,2024-01-19 20:00,1h 15m,0,AI,Air India Limited,11969,Good
+FL-454,Coimbatore,Mumbai,2024-01-19 21:00,2024-01-19 21:00,5h 34m,0,AI,Air India Limited,9806,Good
+FL-455,Coimbatore,Calicut,2024-01-19 22:00,2024-01-19 22:00,2h 3m,0,AI,Air India Limited,7961,Excellent
+FL-456,Kochi,Agatti Island,2024-01-19 23:00,2024-01-19 23:00,2h 13m,0,AI,Air India Limited,12886,Good
+FL-457,Kochi,Bangalore,2024-01-20 00:00,2024-01-20 00:00,4h 12m,0,AI,Air India Limited,9308,Excellent
+FL-458,Kochi,Mumbai,2024-01-20 01:00,2024-01-20 01:00,2h 26m,0,AI,Air India Limited,11095,Good
+FL-459,Kochi,Calicut,2024-01-20 02:00,2024-01-20 02:00,3h 41m,0,AI,Air India Limited,7920,Excellent
+FL-460,Kochi,Delhi,2024-01-20 03:00,2024-01-20 03:00,4h 42m,0,AI,Air India Limited,5900,Excellent
+FL-461,Kochi,Madras,2024-01-20 04:00,2024-01-20 04:00,2h 38m,0,AI,Air India Limited,7102,Excellent
+FL-462,Kochi,Trivandrum,2024-01-20 05:00,2024-01-20 05:00,2h 21m,0,AI,Air India Limited,8470,Excellent
+FL-463,Dehra Dun,Delhi,2024-01-20 06:00,2024-01-20 06:00,2h 37m,0,AI,Air India Limited,6839,Good
+FL-464,Dehra Dun,Lucknow,2024-01-20 07:00,2024-01-20 07:00,2h 33m,0,AI,Air India Limited,9269,Good
+FL-465,Delhi,Ahmedabad,2024-01-20 08:00,2024-01-20 08:00,1h 36m,0,AI,Air India Limited,14014,Good
+FL-466,Delhi,Amritsar,2024-01-20 09:00,2024-01-20 09:00,4h 9m,0,AI,Air India Limited,4372,Excellent
+FL-467,Delhi,Bhubaneswar,2024-01-20 10:00,2024-01-20 10:00,4h 1m,0,AI,Air India Limited,9856,Good
+FL-468,Delhi,Baroda,2024-01-20 11:00,2024-01-20 11:00,1h 21m,0,AI,Air India Limited,9655,Good
+FL-469,Delhi,Bhopal,2024-01-20 12:00,2024-01-20 12:00,4h 9m,0,AI,Air India Limited,13430,Excellent
+FL-470,Delhi,Bangalore,2024-01-20 13:00,2024-01-20 13:00,5h 41m,0,AI,Air India Limited,10689,Good
+FL-471,Delhi,Mumbai,2024-01-20 14:00,2024-01-20 14:00,3h 3m,0,AI,Air India Limited,6624,Excellent
+FL-472,Delhi,Kolkata,2024-01-20 15:00,2024-01-20 15:00,2h 42m,0,AI,Air India Limited,13318,Good
+FL-473,Delhi,Kochi,2024-01-20 16:00,2024-01-20 16:00,3h 4m,0,AI,Air India Limited,12793,Excellent
+FL-474,Delhi,Dehra Dun,2024-01-20 17:00,2024-01-20 17:00,4h 24m,0,AI,Air India Limited,11688,Good
+FL-475,Delhi,Kangra,2024-01-20 18:00,2024-01-20 18:00,4h 17m,0,AI,Air India Limited,6004,Excellent
+FL-476,Delhi,Guwahati,2024-01-20 19:00,2024-01-20 19:00,5h 21m,0,AI,Air India Limited,14773,Excellent
+FL-477,Delhi,Hyderabad,2024-01-20 20:00,2024-01-20 20:00,5h 11m,0,AI,Air India Limited,13129,Excellent
+FL-478,Delhi,Indore,2024-01-20 21:00,2024-01-20 21:00,2h 48m,0,AI,Air India Limited,3169,Good
+FL-479,Delhi,Baghdogra,2024-01-20 22:00,2024-01-20 22:00,3h 14m,0,AI,Air India Limited,12780,Good
+FL-480,Delhi,Chandigarh,2024-01-20 23:00,2024-01-20 23:00,2h 13m,0,AI,Air India Limited,14876,Excellent
+FL-481,Delhi,Allahabad,2024-01-21 00:00,2024-01-21 00:00,5h 39m,0,AI,Air India Limited,9258,Excellent
+FL-482,Delhi,Jammu,2024-01-21 01:00,2024-01-21 01:00,5h 50m,0,AI,Air India Limited,9039,Excellent
+FL-483,Delhi,Leh,2024-01-21 02:00,2024-01-21 02:00,5h 38m,0,AI,Air India Limited,4317,Good
+FL-484,Delhi,Ranchi,2024-01-21 03:00,2024-01-21 03:00,1h 33m,0,AI,Air India Limited,13465,Excellent
+FL-485,Delhi,Aurangabad,2024-01-21 04:00,2024-01-21 04:00,2h 4m,0,AI,Air India Limited,12790,Excellent
+FL-486,Delhi,Jaipur,2024-01-21 05:00,2024-01-21 05:00,3h 53m,0,AI,Air India Limited,4977,Good
+FL-487,Delhi,Jodhpur,2024-01-21 06:00,2024-01-21 06:00,4h 28m,0,AI,Air India Limited,10377,Excellent
+FL-488,Delhi,Jabalpur,2024-01-21 07:00,2024-01-21 07:00,4h 10m,0,AI,Air India Limited,14240,Good
+FL-489,Delhi,Kanpur,2024-01-21 08:00,2024-01-21 08:00,2h 42m,0,AI,Air India Limited,7166,Excellent
+FL-490,Delhi,Kulu,2024-01-21 09:00,2024-01-21 09:00,3h 55m,0,AI,Air India Limited,12518,Excellent
+FL-491,Delhi,Lucknow,2024-01-21 10:00,2024-01-21 10:00,3h 3m,0,AI,Air India Limited,3681,Excellent
+FL-492,Delhi,Ludhiaha,2024-01-21 11:00,2024-01-21 11:00,4h 29m,0,AI,Air India Limited,14091,Excellent
+FL-493,Delhi,Madras,2024-01-21 12:00,2024-01-21 12:00,3h 46m,0,AI,Air India Limited,8299,Excellent
+FL-494,Delhi,Nagpur,2024-01-21 13:00,2024-01-21 13:00,2h 29m,0,AI,Air India Limited,14138,Excellent
+FL-495,Delhi,Patina,2024-01-21 14:00,2024-01-21 14:00,3h 12m,0,AI,Air India Limited,11172,Excellent
+FL-496,Delhi,Pune,2024-01-21 15:00,2024-01-21 15:00,1h 19m,0,AI,Air India Limited,9585,Good
+FL-497,Delhi,Surat,2024-01-21 16:00,2024-01-21 16:00,3h 17m,0,AI,Air India Limited,5460,Excellent
+FL-498,Delhi,Srinagar,2024-01-21 17:00,2024-01-21 17:00,3h 48m,0,AI,Air India Limited,8948,Good
+FL-499,Delhi,Udaipur,2024-01-21 18:00,2024-01-21 18:00,3h 50m,0,AI,Air India Limited,13250,Good
+FL-500,Delhi,Varanasi,2024-01-21 19:00,2024-01-21 19:00,5h 22m,0,AI,Air India Limited,14814,Good
+FL-501,Delhi,Vishakhapatnam,2024-01-21 20:00,2024-01-21 20:00,5h 16m,0,AI,Air India Limited,11119,Excellent
+FL-502,Kangra,Delhi,2024-01-21 21:00,2024-01-21 21:00,2h 52m,0,AI,Air India Limited,10865,Excellent
+FL-503,Mohanbari,Kolkata,2024-01-21 22:00,2024-01-21 22:00,4h 32m,0,AI,Air India Limited,13920,Good
+FL-504,Mohanbari,Dimapur,2024-01-21 23:00,2024-01-21 23:00,3h 3m,0,AI,Air India Limited,12065,Good
+FL-505,Dimapur,Kolkata,2024-01-22 00:00,2024-01-22 00:00,3h 13m,0,AI,Air India Limited,6057,Excellent
+FL-506,Dimapur,Mohanbari,2024-01-22 01:00,2024-01-22 01:00,4h 12m,0,AI,Air India Limited,5704,Excellent
+FL-507,Guwahati,Kolkata,2024-01-22 02:00,2024-01-22 02:00,1h 30m,0,AI,Air India Limited,3895,Good
+FL-508,Guwahati,Delhi,2024-01-22 03:00,2024-01-22 03:00,1h 0m,0,AI,Air India Limited,12274,Excellent
+FL-509,Guwahati,Imphal,2024-01-22 04:00,2024-01-22 04:00,3h 46m,0,AI,Air India Limited,6212,Good
+FL-510,Guwahati,Silchar,2024-01-22 05:00,2024-01-22 05:00,3h 9m,0,AI,Air India Limited,13958,Excellent
+FL-511,Goa,Bangalore,2024-01-22 06:00,2024-01-22 06:00,5h 16m,0,AI,Air India Limited,13653,Excellent
+FL-512,Goa,Mumbai,2024-01-22 07:00,2024-01-22 07:00,3h 21m,0,AI,Air India Limited,3672,Good
+FL-513,Goa,Madras,2024-01-22 08:00,2024-01-22 08:00,2h 21m,0,AI,Air India Limited,13496,Good
+FL-514,Goa,Pune,2024-01-22 09:00,2024-01-22 09:00,5h 10m,0,AI,Air India Limited,9408,Excellent
+FL-515,Gwalior,Mumbai,2024-01-22 10:00,2024-01-22 10:00,3h 4m,0,AI,Air India Limited,7364,Excellent
+FL-516,Khajuraho,Varanasi,2024-01-22 11:00,2024-01-22 11:00,4h 26m,0,AI,Air India Limited,13898,Good
+FL-517,Hyderabad,Ahmedabad,2024-01-22 12:00,2024-01-22 12:00,5h 57m,0,AI,Air India Limited,12492,Good
+FL-518,Hyderabad,Bangalore,2024-01-22 13:00,2024-01-22 13:00,2h 5m,0,AI,Air India Limited,4260,Excellent
+FL-519,Hyderabad,Mumbai,2024-01-22 14:00,2024-01-22 14:00,2h 10m,0,AI,Air India Limited,14553,Excellent
+FL-520,Hyderabad,Kolkata,2024-01-22 15:00,2024-01-22 15:00,1h 55m,0,AI,Air India Limited,11157,Excellent
+FL-521,Hyderabad,Delhi,2024-01-22 16:00,2024-01-22 16:00,4h 47m,0,AI,Air India Limited,9107,Good
+FL-522,Hyderabad,Madras,2024-01-22 17:00,2024-01-22 17:00,5h 38m,0,AI,Air India Limited,9212,Good
+FL-523,Hyderabad,Pune,2024-01-22 18:00,2024-01-22 18:00,4h 59m,0,AI,Air India Limited,12778,Good
+FL-524,Hyderabad,Tirupeti,2024-01-22 19:00,2024-01-22 19:00,1h 59m,0,AI,Air India Limited,4911,Excellent
+FL-525,Hyderabad,Vijayawada,2024-01-22 20:00,2024-01-22 20:00,3h 9m,0,AI,Air India Limited,11355,Excellent
+FL-526,Hyderabad,Vishakhapatnam,2024-01-22 21:00,2024-01-22 21:00,1h 38m,0,AI,Air India Limited,12719,Good
+FL-527,Indore,Mumbai,2024-01-22 22:00,2024-01-22 22:00,5h 24m,0,AI,Air India Limited,10968,Good
+FL-528,Indore,Delhi,2024-01-22 23:00,2024-01-22 23:00,1h 43m,0,AI,Air India Limited,6421,Good
+FL-529,Imphal,Aizwal,2024-01-23 00:00,2024-01-23 00:00,2h 45m,0,AI,Air India Limited,6146,Excellent
+FL-530,Imphal,Kolkata,2024-01-23 01:00,2024-01-23 01:00,5h 46m,0,AI,Air India Limited,6795,Good
+FL-531,Imphal,Guwahati,2024-01-23 02:00,2024-01-23 02:00,3h 45m,0,AI,Air India Limited,14939,Excellent
+FL-532,Imphal,Silchar,2024-01-23 03:00,2024-01-23 03:00,5h 32m,0,AI,Air India Limited,10406,Good
+FL-533,Agartala,Kolkata,2024-01-23 04:00,2024-01-23 04:00,4h 48m,0,AI,Air India Limited,8440,Excellent
+FL-534,Baghdogra,Kolkata,2024-01-23 05:00,2024-01-23 05:00,5h 4m,0,AI,Air India Limited,5755,Excellent
+FL-535,Baghdogra,Delhi,2024-01-23 06:00,2024-01-23 06:00,2h 2m,0,AI,Air India Limited,11377,Excellent
+FL-536,Chandigarh,Delhi,2024-01-23 07:00,2024-01-23 07:00,3h 1m,0,AI,Air India Limited,9257,Excellent
+FL-537,Allahabad,Mumbai,2024-01-23 08:00,2024-01-23 08:00,5h 26m,0,AI,Air India Limited,4545,Excellent
+FL-538,Allahabad,Delhi,2024-01-23 09:00,2024-01-23 09:00,4h 12m,0,AI,Air India Limited,6076,Good
+FL-539,Mangalore,Bangalore,2024-01-23 10:00,2024-01-23 10:00,1h 57m,0,AI,Air India Limited,4498,Excellent
+FL-540,Mangalore,Mumbai,2024-01-23 11:00,2024-01-23 11:00,2h 31m,0,AI,Air India Limited,7866,Good
+FL-541,Jammu,Delhi,2024-01-23 12:00,2024-01-23 12:00,4h 28m,0,AI,Air India Limited,5366,Excellent
+FL-542,Jammu,Leh,2024-01-23 13:00,2024-01-23 13:00,4h 16m,0,AI,Air India Limited,5675,Good
+FL-543,Jammu,Srinagar,2024-01-23 14:00,2024-01-23 14:00,5h 28m,0,AI,Air India Limited,12918,Good
+FL-544,Leh,Delhi,2024-01-23 15:00,2024-01-23 15:00,2h 25m,0,AI,Air India Limited,14446,Good
+FL-545,Leh,Jammu,2024-01-23 16:00,2024-01-23 16:00,4h 42m,0,AI,Air India Limited,6682,Good
+FL-546,Leh,Srinagar,2024-01-23 17:00,2024-01-23 17:00,3h 29m,0,AI,Air India Limited,14732,Excellent
+FL-547,Madurai,Madras,2024-01-23 18:00,2024-01-23 18:00,2h 7m,0,AI,Air India Limited,12349,Excellent
+FL-548,Ranchi,Delhi,2024-01-23 19:00,2024-01-23 19:00,3h 10m,0,AI,Air India Limited,6815,Good
+FL-549,Silchar,Kolkata,2024-01-23 20:00,2024-01-23 20:00,5h 37m,0,AI,Air India Limited,13580,Excellent
+FL-550,Silchar,Guwahati,2024-01-23 21:00,2024-01-23 21:00,5h 3m,0,AI,Air India Limited,5492,Good
+FL-551,Silchar,Imphal,2024-01-23 22:00,2024-01-23 22:00,3h 53m,0,AI,Air India Limited,14569,Good
+FL-552,Aurangabad,Mumbai,2024-01-23 23:00,2024-01-23 23:00,4h 55m,0,AI,Air India Limited,5447,Good
+FL-553,Aurangabad,Delhi,2024-01-24 00:00,2024-01-24 00:00,5h 33m,0,AI,Air India Limited,12320,Excellent
+FL-554,Port Blair,Kolkata,2024-01-24 01:00,2024-01-24 01:00,2h 35m,0,AI,Air India Limited,13313,Excellent
+FL-555,Port Blair,Delhi,2024-01-24 02:00,2024-01-24 02:00,5h 50m,0,AI,Air India Limited,11443,Excellent
+FL-556,Port Blair,Madras,2024-01-24 03:00,2024-01-24 03:00,1h 15m,0,AI,Air India Limited,6055,Excellent
+FL-557,Jaipur,Mumbai,2024-01-24 04:00,2024-01-24 04:00,5h 11m,0,AI,Air India Limited,13240,Good
+FL-558,Jaipur,Delhi,2024-01-24 05:00,2024-01-24 05:00,5h 20m,0,AI,Air India Limited,5142,Excellent
+FL-559,Jodhpur,Mumbai,2024-01-24 06:00,2024-01-24 06:00,5h 59m,0,AI,Air India Limited,3080,Excellent
+FL-560,Jodhpur,Delhi,2024-01-24 07:00,2024-01-24 07:00,1h 29m,0,AI,Air India Limited,13470,Excellent
+FL-561,Jamnagar,Mumbai,2024-01-24 08:00,2024-01-24 08:00,5h 37m,0,AI,Air India Limited,10178,Good
+FL-562,Jabalpur,Delhi,2024-01-24 09:00,2024-01-24 09:00,3h 9m,0,AI,Air India Limited,6008,Excellent
+FL-563,Kanpur,Delhi,2024-01-24 10:00,2024-01-24 10:00,3h 3m,0,AI,Air India Limited,12984,Excellent
+FL-564,Kulu,Delhi,2024-01-24 11:00,2024-01-24 11:00,2h 9m,0,AI,Air India Limited,10801,Good
+FL-565,Lucknow,Mumbai,2024-01-24 12:00,2024-01-24 12:00,2h 2m,0,AI,Air India Limited,6739,Good
+FL-566,Lucknow,Dehra Dun,2024-01-24 13:00,2024-01-24 13:00,5h 33m,0,AI,Air India Limited,12063,Excellent
+FL-567,Lucknow,Delhi,2024-01-24 14:00,2024-01-24 14:00,1h 49m,0,AI,Air India Limited,10505,Excellent
+FL-568,Ludhiaha,Delhi,2024-01-24 15:00,2024-01-24 15:00,3h 46m,0,AI,Air India Limited,9045,Excellent
+FL-569,Madras,Bangalore,2024-01-24 16:00,2024-01-24 16:00,3h 19m,0,AI,Air India Limited,4217,Good
+FL-570,Madras,Mumbai,2024-01-24 17:00,2024-01-24 17:00,5h 4m,0,AI,Air India Limited,12978,Good
+FL-571,Madras,Kolkata,2024-01-24 18:00,2024-01-24 18:00,1h 55m,0,AI,Air India Limited,12788,Good
+FL-572,Madras,Kochi,2024-01-24 19:00,2024-01-24 19:00,5h 12m,0,AI,Air India Limited,8867,Excellent
+FL-573,Madras,Delhi,2024-01-24 20:00,2024-01-24 20:00,5h 52m,0,AI,Air India Limited,9195,Good
+FL-574,Madras,Goa,2024-01-24 21:00,2024-01-24 21:00,1h 26m,0,AI,Air India Limited,9248,Excellent
+FL-575,Madras,Hyderabad,2024-01-24 22:00,2024-01-24 22:00,2h 4m,0,AI,Air India Limited,8962,Excellent
+FL-576,Madras,Madurai,2024-01-24 23:00,2024-01-24 23:00,1h 37m,0,AI,Air India Limited,6874,Excellent
+FL-577,Madras,Port Blair,2024-01-25 00:00,2024-01-25 00:00,2h 44m,0,AI,Air India Limited,9785,Good
+FL-578,Madras,Trivandrum,2024-01-25 01:00,2024-01-25 01:00,3h 3m,0,AI,Air India Limited,12291,Good
+FL-579,Nagpur,Mumbai,2024-01-25 02:00,2024-01-25 02:00,4h 27m,0,AI,Air India Limited,3025,Good
+FL-580,Nagpur,Raipur,2024-01-25 03:00,2024-01-25 03:00,4h 26m,0,AI,Air India Limited,4540,Excellent
+FL-581,Patina,Delhi,2024-01-25 04:00,2024-01-25 04:00,3h 28m,0,AI,Air India Limited,10953,Excellent
+FL-582,Pune,Delhi,2024-01-25 05:00,2024-01-25 05:00,4h 19m,0,AI,Air India Limited,6558,Good
+FL-583,Pune,Goa,2024-01-25 06:00,2024-01-25 06:00,3h 0m,0,AI,Air India Limited,14607,Excellent
+FL-584,Pune,Hyderabad,2024-01-25 07:00,2024-01-25 07:00,4h 4m,0,AI,Air India Limited,9664,Excellent
+FL-585,Rajkot,Mumbai,2024-01-25 08:00,2024-01-25 08:00,5h 43m,0,AI,Air India Limited,11867,Good
+FL-586,Raipur,Delhi,2024-01-25 09:00,2024-01-25 09:00,3h 56m,0,AI,Air India Limited,3220,Good
+FL-587,Raipur,Vishakhapatnam,2024-01-25 10:00,2024-01-25 10:00,2h 0m,0,AI,Air India Limited,10030,Excellent
+FL-588,Shillong,Kolkata,2024-01-25 11:00,2024-01-25 11:00,3h 23m,0,AI,Air India Limited,3433,Excellent
+FL-589,Surat,Delhi,2024-01-25 12:00,2024-01-25 12:00,5h 58m,0,AI,Air India Limited,4788,Excellent
+FL-590,Srinagar,Delhi,2024-01-25 13:00,2024-01-25 13:00,2h 16m,0,AI,Air India Limited,5593,Good
+FL-591,Srinagar,Jammu,2024-01-25 14:00,2024-01-25 14:00,5h 6m,0,AI,Air India Limited,9118,Excellent
+FL-592,Srinagar,Leh,2024-01-25 15:00,2024-01-25 15:00,3h 58m,0,AI,Air India Limited,10254,Good
+FL-593,Tirupeti,Hyderabad,2024-01-25 16:00,2024-01-25 16:00,3h 24m,0,AI,Air India Limited,14104,Excellent
+FL-594,Trivandrum,Bangalore,2024-01-25 17:00,2024-01-25 17:00,4h 45m,0,AI,Air India Limited,8259,Good
+FL-595,Trivandrum,Mumbai,2024-01-25 18:00,2024-01-25 18:00,2h 55m,0,AI,Air India Limited,11872,Excellent
+FL-596,Trivandrum,Kochi,2024-01-25 19:00,2024-01-25 19:00,1h 30m,0,AI,Air India Limited,9568,Good
+FL-597,Trivandrum,Madras,2024-01-25 20:00,2024-01-25 20:00,1h 27m,0,AI,Air India Limited,5085,Excellent
+FL-598,Udaipur,Mumbai,2024-01-25 21:00,2024-01-25 21:00,2h 35m,0,AI,Air India Limited,4512,Good
+FL-599,Udaipur,Delhi,2024-01-25 22:00,2024-01-25 22:00,5h 16m,0,AI,Air India Limited,3854,Excellent
+FL-600,Vijayawada,Hyderabad,2024-01-25 23:00,2024-01-25 23:00,5h 6m,0,AI,Air India Limited,13182,Excellent
+FL-601,Varanasi,Agra,2024-01-26 00:00,2024-01-26 00:00,2h 47m,0,AI,Air India Limited,14080,Excellent
+FL-602,Varanasi,Mumbai,2024-01-26 01:00,2024-01-26 01:00,2h 59m,0,AI,Air India Limited,9855,Excellent
+FL-603,Varanasi,Delhi,2024-01-26 02:00,2024-01-26 02:00,2h 7m,0,AI,Air India Limited,11535,Excellent
+FL-604,Vishakhapatnam,Mumbai,2024-01-26 03:00,2024-01-26 03:00,3h 43m,0,AI,Air India Limited,14634,Good
+FL-605,Vishakhapatnam,Delhi,2024-01-26 04:00,2024-01-26 04:00,1h 21m,0,AI,Air India Limited,11597,Excellent
+FL-606,Vishakhapatnam,Hyderabad,2024-01-26 05:00,2024-01-26 05:00,5h 40m,0,AI,Air India Limited,4579,Good
+FL-607,Ahmedabad,Mumbai,2024-01-26 06:00,2024-01-26 06:00,4h 42m,0,G8,Go Air,13651,Good
+FL-608,Ahmedabad,Kolkata,2024-01-26 07:00,2024-01-26 07:00,1h 20m,0,G8,Go Air,13415,Good
+FL-609,Ahmedabad,Delhi,2024-01-26 08:00,2024-01-26 08:00,5h 45m,0,G8,Go Air,11659,Excellent
+FL-610,Bangalore,Mumbai,2024-01-26 09:00,2024-01-26 09:00,2h 57m,0,G8,Go Air,10125,Excellent
+FL-611,Bangalore,Delhi,2024-01-26 10:00,2024-01-26 10:00,4h 49m,0,G8,Go Air,13476,Good
+FL-612,Bangalore,Goa,2024-01-26 11:00,2024-01-26 11:00,2h 56m,0,G8,Go Air,8159,Good
+FL-613,Bangalore,Pune,2024-01-26 12:00,2024-01-26 12:00,4h 9m,0,G8,Go Air,5378,Good
+FL-614,Mumbai,Ahmedabad,2024-01-26 13:00,2024-01-26 13:00,3h 52m,0,G8,Go Air,7724,Excellent
+FL-615,Mumbai,Bangalore,2024-01-26 14:00,2024-01-26 14:00,2h 42m,0,G8,Go Air,6874,Excellent
+FL-616,Mumbai,Kochi,2024-01-26 15:00,2024-01-26 15:00,5h 37m,0,G8,Go Air,4084,Excellent
+FL-617,Mumbai,Delhi,2024-01-26 16:00,2024-01-26 16:00,1h 31m,0,G8,Go Air,11815,Excellent
+FL-618,Mumbai,Goa,2024-01-26 17:00,2024-01-26 17:00,1h 59m,0,G8,Go Air,8246,Excellent
+FL-619,Mumbai,Chandigarh,2024-01-26 18:00,2024-01-26 18:00,3h 58m,0,G8,Go Air,14617,Excellent
+FL-620,Mumbai,Jaipur,2024-01-26 19:00,2024-01-26 19:00,5h 54m,0,G8,Go Air,6651,Good
+FL-621,Mumbai,Lucknow,2024-01-26 20:00,2024-01-26 20:00,5h 2m,0,G8,Go Air,14827,Excellent
+FL-622,Mumbai,Madras,2024-01-26 21:00,2024-01-26 21:00,1h 46m,0,G8,Go Air,9895,Good
+FL-623,Mumbai,Nagpur,2024-01-26 22:00,2024-01-26 22:00,4h 17m,0,G8,Go Air,6509,Good
+FL-624,Mumbai,Patina,2024-01-26 23:00,2024-01-26 23:00,1h 46m,0,G8,Go Air,10997,Good
+FL-625,Mumbai,Srinagar,2024-01-27 00:00,2024-01-27 00:00,5h 49m,0,G8,Go Air,9131,Excellent
+FL-626,Kolkata,Ahmedabad,2024-01-27 01:00,2024-01-27 01:00,3h 30m,0,G8,Go Air,10413,Good
+FL-627,Kolkata,Delhi,2024-01-27 02:00,2024-01-27 02:00,3h 46m,0,G8,Go Air,10784,Excellent
+FL-628,Kolkata,Guwahati,2024-01-27 03:00,2024-01-27 03:00,5h 12m,0,G8,Go Air,7552,Good
+FL-629,Kolkata,Baghdogra,2024-01-27 04:00,2024-01-27 04:00,3h 34m,0,G8,Go Air,13611,Excellent
+FL-630,Kolkata,Port Blair,2024-01-27 05:00,2024-01-27 05:00,4h 22m,0,G8,Go Air,6538,Excellent
+FL-631,Kolkata,Nagpur,2024-01-27 06:00,2024-01-27 06:00,3h 43m,0,G8,Go Air,11245,Excellent
+FL-632,Kolkata,Patina,2024-01-27 07:00,2024-01-27 07:00,1h 23m,0,G8,Go Air,3124,Good
+FL-633,Kochi,Mumbai,2024-01-27 08:00,2024-01-27 08:00,1h 21m,0,G8,Go Air,13439,Good
+FL-634,Delhi,Ahmedabad,2024-01-27 09:00,2024-01-27 09:00,4h 21m,0,G8,Go Air,7261,Excellent
+FL-635,Delhi,Bangalore,2024-01-27 10:00,2024-01-27 10:00,2h 41m,0,G8,Go Air,10664,Excellent
+FL-636,Delhi,Mumbai,2024-01-27 11:00,2024-01-27 11:00,1h 46m,0,G8,Go Air,9457,Excellent
+FL-637,Delhi,Kolkata,2024-01-27 12:00,2024-01-27 12:00,4h 50m,0,G8,Go Air,3588,Good
+FL-638,Delhi,Guwahati,2024-01-27 13:00,2024-01-27 13:00,3h 21m,0,G8,Go Air,5827,Excellent
+FL-639,Delhi,Goa,2024-01-27 14:00,2024-01-27 14:00,4h 45m,0,G8,Go Air,14736,Good
+FL-640,Delhi,Baghdogra,2024-01-27 15:00,2024-01-27 15:00,3h 20m,0,G8,Go Air,14080,Good
+FL-641,Delhi,Jammu,2024-01-27 16:00,2024-01-27 16:00,2h 10m,0,G8,Go Air,5570,Good
+FL-642,Delhi,Leh,2024-01-27 17:00,2024-01-27 17:00,1h 59m,0,G8,Go Air,11667,Good
+FL-643,Delhi,Ranchi,2024-01-27 18:00,2024-01-27 18:00,5h 31m,0,G8,Go Air,10822,Good
+FL-644,Delhi,Lucknow,2024-01-27 19:00,2024-01-27 19:00,2h 8m,0,G8,Go Air,10678,Excellent
+FL-645,Delhi,Nagpur,2024-01-27 20:00,2024-01-27 20:00,1h 22m,0,G8,Go Air,12241,Excellent
+FL-646,Delhi,Patina,2024-01-27 21:00,2024-01-27 21:00,5h 38m,0,G8,Go Air,8027,Excellent
+FL-647,Delhi,Pune,2024-01-27 22:00,2024-01-27 22:00,5h 58m,0,G8,Go Air,10256,Excellent
+FL-648,Delhi,Srinagar,2024-01-27 23:00,2024-01-27 23:00,3h 50m,0,G8,Go Air,12581,Good
+FL-649,Guwahati,Kolkata,2024-01-28 00:00,2024-01-28 00:00,5h 19m,0,G8,Go Air,14290,Excellent
+FL-650,Guwahati,Delhi,2024-01-28 01:00,2024-01-28 01:00,3h 3m,0,G8,Go Air,10571,Excellent
+FL-651,Goa,Bangalore,2024-01-28 02:00,2024-01-28 02:00,4h 17m,0,G8,Go Air,8942,Excellent
+FL-652,Goa,Mumbai,2024-01-28 03:00,2024-01-28 03:00,1h 29m,0,G8,Go Air,3561,Excellent
+FL-653,Goa,Delhi,2024-01-28 04:00,2024-01-28 04:00,2h 57m,0,G8,Go Air,7086,Excellent
+FL-654,Baghdogra,Kolkata,2024-01-28 05:00,2024-01-28 05:00,5h 22m,0,G8,Go Air,5816,Excellent
+FL-655,Baghdogra,Delhi,2024-01-28 06:00,2024-01-28 06:00,5h 11m,0,G8,Go Air,5529,Good
+FL-656,Chandigarh,Mumbai,2024-01-28 07:00,2024-01-28 07:00,3h 32m,0,G8,Go Air,11808,Good
+FL-657,Jammu,Mumbai,2024-01-28 08:00,2024-01-28 08:00,2h 8m,0,G8,Go Air,3974,Excellent
+FL-658,Jammu,Delhi,2024-01-28 09:00,2024-01-28 09:00,3h 24m,0,G8,Go Air,7059,Good
+FL-659,Jammu,Srinagar,2024-01-28 10:00,2024-01-28 10:00,4h 2m,0,G8,Go Air,5011,Good
+FL-660,Leh,Delhi,2024-01-28 11:00,2024-01-28 11:00,5h 21m,0,G8,Go Air,9599,Excellent
+FL-661,Ranchi,Mumbai,2024-01-28 12:00,2024-01-28 12:00,3h 21m,0,G8,Go Air,3943,Excellent
+FL-662,Ranchi,Delhi,2024-01-28 13:00,2024-01-28 13:00,1h 43m,0,G8,Go Air,4488,Good
+FL-663,Port Blair,Kolkata,2024-01-28 14:00,2024-01-28 14:00,4h 43m,0,G8,Go Air,4656,Excellent
+FL-664,Port Blair,Madras,2024-01-28 15:00,2024-01-28 15:00,5h 17m,0,G8,Go Air,8200,Good
+FL-665,Jaipur,Mumbai,2024-01-28 16:00,2024-01-28 16:00,1h 50m,0,G8,Go Air,4274,Good
+FL-666,Lucknow,Mumbai,2024-01-28 17:00,2024-01-28 17:00,2h 38m,0,G8,Go Air,8655,Good
+FL-667,Lucknow,Delhi,2024-01-28 18:00,2024-01-28 18:00,1h 21m,0,G8,Go Air,12036,Excellent
+FL-668,Madras,Mumbai,2024-01-28 19:00,2024-01-28 19:00,2h 23m,0,G8,Go Air,9636,Good
+FL-669,Madras,Port Blair,2024-01-28 20:00,2024-01-28 20:00,5h 32m,0,G8,Go Air,14124,Good
+FL-670,Madras,Pune,2024-01-28 21:00,2024-01-28 21:00,3h 46m,0,G8,Go Air,14485,Excellent
+FL-671,Nagpur,Mumbai,2024-01-28 22:00,2024-01-28 22:00,5h 7m,0,G8,Go Air,3401,Good
+FL-672,Nagpur,Kolkata,2024-01-28 23:00,2024-01-28 23:00,2h 45m,0,G8,Go Air,14452,Excellent
+FL-673,Nagpur,Delhi,2024-01-29 00:00,2024-01-29 00:00,1h 24m,0,G8,Go Air,14486,Excellent
+FL-674,Nagpur,Pune,2024-01-29 01:00,2024-01-29 01:00,3h 43m,0,G8,Go Air,7394,Excellent
+FL-675,Patina,Kolkata,2024-01-29 02:00,2024-01-29 02:00,4h 35m,0,G8,Go Air,11311,Excellent
+FL-676,Patina,Delhi,2024-01-29 03:00,2024-01-29 03:00,2h 34m,0,G8,Go Air,12008,Good
+FL-677,Patina,Ranchi,2024-01-29 04:00,2024-01-29 04:00,1h 3m,0,G8,Go Air,5168,Excellent
+FL-678,Pune,Bangalore,2024-01-29 05:00,2024-01-29 05:00,3h 37m,0,G8,Go Air,7595,Good
+FL-679,Pune,Delhi,2024-01-29 06:00,2024-01-29 06:00,2h 58m,0,G8,Go Air,10057,Good
+FL-680,Pune,Madras,2024-01-29 07:00,2024-01-29 07:00,2h 3m,0,G8,Go Air,5783,Good
+FL-681,Pune,Nagpur,2024-01-29 08:00,2024-01-29 08:00,2h 41m,0,G8,Go Air,5205,Excellent
+FL-682,Srinagar,Delhi,2024-01-29 09:00,2024-01-29 09:00,1h 41m,0,G8,Go Air,11257,Excellent
+FL-683,Srinagar,Jammu,2024-01-29 10:00,2024-01-29 10:00,5h 27m,0,G8,Go Air,9504,Excellent
+FL-684,Mumbai,Calicut,2024-01-29 11:00,2024-01-29 11:00,3h 31m,0,IX,Air India Express,6153,Good
+FL-685,Mumbai,Kochi,2024-01-29 12:00,2024-01-29 12:00,1h 55m,0,IX,Air India Express,8321,Good
+FL-686,Mumbai,Mangalore,2024-01-29 13:00,2024-01-29 13:00,4h 49m,0,IX,Air India Express,9046,Good
+FL-687,Mumbai,Madras,2024-01-29 14:00,2024-01-29 14:00,1h 39m,0,IX,Air India Express,10401,Excellent
+FL-688,Mumbai,Trivandrum,2024-01-29 15:00,2024-01-29 15:00,2h 28m,0,IX,Air India Express,11722,Excellent
+FL-689,Calicut,Mumbai,2024-01-29 16:00,2024-01-29 16:00,3h 59m,0,IX,Air India Express,13100,Good
+FL-690,Calicut,Kochi,2024-01-29 17:00,2024-01-29 17:00,3h 35m,0,IX,Air India Express,9575,Good
+FL-691,Calicut,Mangalore,2024-01-29 18:00,2024-01-29 18:00,4h 46m,0,IX,Air India Express,9825,Excellent
+FL-692,Kochi,Mumbai,2024-01-29 19:00,2024-01-29 19:00,2h 19m,0,IX,Air India Express,12417,Excellent
+FL-693,Kochi,Calicut,2024-01-29 20:00,2024-01-29 20:00,5h 30m,0,IX,Air India Express,7222,Excellent
+FL-694,Kochi,Trivandrum,2024-01-29 21:00,2024-01-29 21:00,4h 29m,0,IX,Air India Express,10500,Good
+FL-695,Mangalore,Mumbai,2024-01-29 22:00,2024-01-29 22:00,2h 4m,0,IX,Air India Express,10222,Excellent
+FL-696,Madras,Mumbai,2024-01-29 23:00,2024-01-29 23:00,1h 34m,0,IX,Air India Express,11392,Excellent
+FL-697,Madras,Trivandrum,2024-01-30 00:00,2024-01-30 00:00,5h 51m,0,IX,Air India Express,5225,Good
+FL-698,Madras,Tiruchirappalli,2024-01-30 01:00,2024-01-30 01:00,2h 58m,0,IX,Air India Express,9186,Excellent
+FL-699,Trivandrum,Mumbai,2024-01-30 02:00,2024-01-30 02:00,3h 59m,0,IX,Air India Express,13958,Excellent
+FL-700,Trivandrum,Kochi,2024-01-30 03:00,2024-01-30 03:00,2h 10m,0,IX,Air India Express,10610,Excellent
+FL-701,Trivandrum,Madras,2024-01-30 04:00,2024-01-30 04:00,2h 16m,0,IX,Air India Express,8573,Excellent
+FL-702,Tiruchirappalli,Madras,2024-01-30 05:00,2024-01-30 05:00,3h 56m,0,IX,Air India Express,14505,Good
+FL-703,Bangalore,Madras,2024-01-30 06:00,2024-01-30 06:00,3h 22m,0,MK,Air Mauritius,3604,Excellent
+FL-704,Aizwal,Kolkata,2024-01-30 07:00,2024-01-30 07:00,4h 10m,0,S2,Air Sahara,8719,Excellent
+FL-705,Aizwal,Guwahati,2024-01-30 08:00,2024-01-30 08:00,3h 14m,0,S2,Air Sahara,5335,Good
+FL-706,Ahmedabad,Mumbai,2024-01-30 09:00,2024-01-30 09:00,4h 45m,0,S2,Air Sahara,9783,Good
+FL-707,Ahmedabad,Delhi,2024-01-30 10:00,2024-01-30 10:00,1h 25m,0,S2,Air Sahara,6970,Excellent
+FL-708,Amritsar,Delhi,2024-01-30 11:00,2024-01-30 11:00,5h 29m,0,S2,Air Sahara,14321,Excellent
+FL-709,Baroda,Mumbai,2024-01-30 12:00,2024-01-30 12:00,2h 24m,0,S2,Air Sahara,11610,Excellent
+FL-710,Bhuj,Mumbai,2024-01-30 13:00,2024-01-30 13:00,4h 38m,0,S2,Air Sahara,8642,Excellent
+FL-711,Bhopal,Mumbai,2024-01-30 14:00,2024-01-30 14:00,5h 42m,0,S2,Air Sahara,10331,Good
+FL-712,Bhopal,Delhi,2024-01-30 15:00,2024-01-30 15:00,5h 0m,0,S2,Air Sahara,7322,Excellent
+FL-713,Bhaunagar,Mumbai,2024-01-30 16:00,2024-01-30 16:00,2h 18m,0,S2,Air Sahara,4995,Good
+FL-714,Bangalore,Mumbai,2024-01-30 17:00,2024-01-30 17:00,5h 47m,0,S2,Air Sahara,10818,Excellent
+FL-715,Bangalore,Kolkata,2024-01-30 18:00,2024-01-30 18:00,3h 40m,0,S2,Air Sahara,3156,Good
+FL-716,Bangalore,Coimbatore,2024-01-30 19:00,2024-01-30 19:00,3h 10m,0,S2,Air Sahara,11293,Good
+FL-717,Bangalore,Kochi,2024-01-30 20:00,2024-01-30 20:00,5h 10m,0,S2,Air Sahara,13017,Good
+FL-718,Bangalore,Delhi,2024-01-30 21:00,2024-01-30 21:00,1h 34m,0,S2,Air Sahara,10284,Excellent
+FL-719,Bangalore,Goa,2024-01-30 22:00,2024-01-30 22:00,4h 51m,0,S2,Air Sahara,13778,Good
+FL-720,Bangalore,Hyderabad,2024-01-30 23:00,2024-01-30 23:00,4h 31m,0,S2,Air Sahara,14306,Excellent
+FL-721,Bangalore,Indore,2024-01-31 00:00,2024-01-31 00:00,3h 53m,0,S2,Air Sahara,13873,Excellent
+FL-722,Bangalore,Mangalore,2024-01-31 01:00,2024-01-31 01:00,5h 32m,0,S2,Air Sahara,14334,Excellent
+FL-723,Bangalore,Madras,2024-01-31 02:00,2024-01-31 02:00,3h 59m,0,S2,Air Sahara,6889,Good
+FL-724,Bangalore,Pune,2024-01-31 03:00,2024-01-31 03:00,1h 35m,0,S2,Air Sahara,6387,Good
+FL-725,Bangalore,Trivandrum,2024-01-31 04:00,2024-01-31 04:00,2h 7m,0,S2,Air Sahara,7407,Excellent
+FL-726,Bangalore,Vishakhapatnam,2024-01-31 05:00,2024-01-31 05:00,2h 30m,0,S2,Air Sahara,12769,Good
+FL-727,Mumbai,Ahmedabad,2024-01-31 06:00,2024-01-31 06:00,1h 51m,0,S2,Air Sahara,7862,Excellent
+FL-728,Mumbai,Baroda,2024-01-31 07:00,2024-01-31 07:00,4h 15m,0,S2,Air Sahara,7459,Good
+FL-729,Mumbai,Bhuj,2024-01-31 08:00,2024-01-31 08:00,2h 37m,0,S2,Air Sahara,6166,Good
+FL-730,Mumbai,Bhopal,2024-01-31 09:00,2024-01-31 09:00,1h 1m,0,S2,Air Sahara,3472,Good
+FL-731,Mumbai,Bhaunagar,2024-01-31 10:00,2024-01-31 10:00,1h 52m,0,S2,Air Sahara,10038,Excellent
+FL-732,Mumbai,Bangalore,2024-01-31 11:00,2024-01-31 11:00,5h 59m,0,S2,Air Sahara,14005,Excellent
+FL-733,Mumbai,Calicut,2024-01-31 12:00,2024-01-31 12:00,1h 54m,0,S2,Air Sahara,11506,Good
+FL-734,Mumbai,Kolkata,2024-01-31 13:00,2024-01-31 13:00,3h 35m,0,S2,Air Sahara,8200,Good
+FL-735,Mumbai,Coimbatore,2024-01-31 14:00,2024-01-31 14:00,5h 35m,0,S2,Air Sahara,7434,Good
+FL-736,Mumbai,Kochi,2024-01-31 15:00,2024-01-31 15:00,1h 2m,0,S2,Air Sahara,11903,Excellent
+FL-737,Mumbai,Delhi,2024-01-31 16:00,2024-01-31 16:00,5h 3m,0,S2,Air Sahara,6578,Good
+FL-738,Mumbai,Diu,2024-01-31 17:00,2024-01-31 17:00,3h 56m,0,S2,Air Sahara,11746,Good
+FL-739,Mumbai,Goa,2024-01-31 18:00,2024-01-31 18:00,2h 47m,0,S2,Air Sahara,11808,Excellent
+FL-740,Mumbai,Hyderabad,2024-01-31 19:00,2024-01-31 19:00,2h 4m,0,S2,Air Sahara,6171,Good
+FL-741,Mumbai,Indore,2024-01-31 20:00,2024-01-31 20:00,1h 58m,0,S2,Air Sahara,3443,Excellent
+FL-742,Mumbai,Chandigarh,2024-01-31 21:00,2024-01-31 21:00,3h 41m,0,S2,Air Sahara,9662,Good
+FL-743,Mumbai,Mangalore,2024-01-31 22:00,2024-01-31 22:00,3h 2m,0,S2,Air Sahara,5446,Excellent
+FL-744,Mumbai,Aurangabad,2024-01-31 23:00,2024-01-31 23:00,2h 11m,0,S2,Air Sahara,14710,Good
+FL-745,Mumbai,Jaipur,2024-02-01 00:00,2024-02-01 00:00,1h 55m,0,S2,Air Sahara,3493,Good
+FL-746,Mumbai,Jodhpur,2024-02-01 01:00,2024-02-01 01:00,5h 54m,0,S2,Air Sahara,7071,Excellent
+FL-747,Mumbai,Lucknow,2024-02-01 02:00,2024-02-01 02:00,1h 44m,0,S2,Air Sahara,6382,Good
+FL-748,Mumbai,Madras,2024-02-01 03:00,2024-02-01 03:00,4h 19m,0,S2,Air Sahara,12537,Good
+FL-749,Mumbai,Nagpur,2024-02-01 04:00,2024-02-01 04:00,3h 16m,0,S2,Air Sahara,3999,Excellent
+FL-750,Mumbai,Pune,2024-02-01 05:00,2024-02-01 05:00,1h 25m,0,S2,Air Sahara,3123,Good
+FL-751,Mumbai,Rajkot,2024-02-01 06:00,2024-02-01 06:00,3h 51m,0,S2,Air Sahara,9964,Good
+FL-752,Mumbai,Raipur,2024-02-01 07:00,2024-02-01 07:00,1h 13m,0,S2,Air Sahara,9988,Good
+FL-753,Mumbai,Trivandrum,2024-02-01 08:00,2024-02-01 08:00,3h 9m,0,S2,Air Sahara,9194,Good
+FL-754,Mumbai,Udaipur,2024-02-01 09:00,2024-02-01 09:00,3h 20m,0,S2,Air Sahara,10687,Excellent
+FL-755,Mumbai,Vishakhapatnam,2024-02-01 10:00,2024-02-01 10:00,3h 7m,0,S2,Air Sahara,5143,Excellent
+FL-756,Calicut,Mumbai,2024-02-01 11:00,2024-02-01 11:00,3h 28m,0,S2,Air Sahara,6147,Good
+FL-757,Kolkata,Aizwal,2024-02-01 12:00,2024-02-01 12:00,3h 33m,0,S2,Air Sahara,4784,Good
+FL-758,Kolkata,Bangalore,2024-02-01 13:00,2024-02-01 13:00,2h 6m,0,S2,Air Sahara,9994,Good
+FL-759,Kolkata,Mumbai,2024-02-01 14:00,2024-02-01 14:00,1h 7m,0,S2,Air Sahara,8810,Excellent
+FL-760,Kolkata,Delhi,2024-02-01 15:00,2024-02-01 15:00,1h 0m,0,S2,Air Sahara,9466,Excellent
+FL-761,Kolkata,Guwahati,2024-02-01 16:00,2024-02-01 16:00,3h 9m,0,S2,Air Sahara,8136,Excellent
+FL-762,Kolkata,Agartala,2024-02-01 17:00,2024-02-01 17:00,5h 27m,0,S2,Air Sahara,3108,Excellent
+FL-763,Kolkata,Baghdogra,2024-02-01 18:00,2024-02-01 18:00,5h 56m,0,S2,Air Sahara,14798,Excellent
+FL-764,Kolkata,Ranchi,2024-02-01 19:00,2024-02-01 19:00,3h 55m,0,S2,Air Sahara,14810,Good
+FL-765,Kolkata,Silchar,2024-02-01 20:00,2024-02-01 20:00,1h 42m,0,S2,Air Sahara,5197,Excellent
+FL-766,Kolkata,Port Blair,2024-02-01 21:00,2024-02-01 21:00,5h 23m,0,S2,Air Sahara,5939,Good
+FL-767,Kolkata,Patina,2024-02-01 22:00,2024-02-01 22:00,2h 39m,0,S2,Air Sahara,9452,Good
+FL-768,Kolkata,Varanasi,2024-02-01 23:00,2024-02-01 23:00,4h 23m,0,S2,Air Sahara,5167,Excellent
+FL-769,Kolkata,Vishakhapatnam,2024-02-02 00:00,2024-02-02 00:00,3h 40m,0,S2,Air Sahara,14021,Excellent
+FL-770,Coimbatore,Bangalore,2024-02-02 01:00,2024-02-02 01:00,5h 0m,0,S2,Air Sahara,3914,Good
+FL-771,Coimbatore,Mumbai,2024-02-02 02:00,2024-02-02 02:00,3h 22m,0,S2,Air Sahara,9484,Excellent
+FL-772,Coimbatore,Madras,2024-02-02 03:00,2024-02-02 03:00,5h 43m,0,S2,Air Sahara,8798,Excellent
+FL-773,Kochi,Bangalore,2024-02-02 04:00,2024-02-02 04:00,3h 23m,0,S2,Air Sahara,3720,Excellent
+FL-774,Kochi,Mumbai,2024-02-02 05:00,2024-02-02 05:00,3h 14m,0,S2,Air Sahara,8752,Excellent
+FL-775,Kochi,Madras,2024-02-02 06:00,2024-02-02 06:00,5h 11m,0,S2,Air Sahara,8654,Excellent
+FL-776,Dehra Dun,Delhi,2024-02-02 07:00,2024-02-02 07:00,1h 22m,0,S2,Air Sahara,13765,Good
+FL-777,Delhi,Ahmedabad,2024-02-02 08:00,2024-02-02 08:00,2h 56m,0,S2,Air Sahara,13305,Excellent
+FL-778,Delhi,Amritsar,2024-02-02 09:00,2024-02-02 09:00,4h 46m,0,S2,Air Sahara,9392,Good
+FL-779,Delhi,Bhopal,2024-02-02 10:00,2024-02-02 10:00,2h 3m,0,S2,Air Sahara,5862,Good
+FL-780,Delhi,Bangalore,2024-02-02 11:00,2024-02-02 11:00,5h 23m,0,S2,Air Sahara,5233,Good
+FL-781,Delhi,Mumbai,2024-02-02 12:00,2024-02-02 12:00,3h 16m,0,S2,Air Sahara,8081,Good
+FL-782,Delhi,Kolkata,2024-02-02 13:00,2024-02-02 13:00,5h 45m,0,S2,Air Sahara,3253,Good
+FL-783,Delhi,Dehra Dun,2024-02-02 14:00,2024-02-02 14:00,4h 24m,0,S2,Air Sahara,8551,Excellent
+FL-784,Delhi,Guwahati,2024-02-02 15:00,2024-02-02 15:00,1h 35m,0,S2,Air Sahara,4577,Excellent
+FL-785,Delhi,Gorakhpur,2024-02-02 16:00,2024-02-02 16:00,3h 8m,0,S2,Air Sahara,5351,Excellent
+FL-786,Delhi,Hyderabad,2024-02-02 17:00,2024-02-02 17:00,3h 38m,0,S2,Air Sahara,12403,Excellent
+FL-787,Delhi,Indore,2024-02-02 18:00,2024-02-02 18:00,2h 43m,0,S2,Air Sahara,12874,Good
+FL-788,Delhi,Baghdogra,2024-02-02 19:00,2024-02-02 19:00,2h 41m,0,S2,Air Sahara,14280,Good
+FL-789,Delhi,Chandigarh,2024-02-02 20:00,2024-02-02 20:00,5h 34m,0,S2,Air Sahara,11252,Excellent
+FL-790,Delhi,Jammu,2024-02-02 21:00,2024-02-02 21:00,1h 48m,0,S2,Air Sahara,8478,Good
+FL-791,Delhi,Leh,2024-02-02 22:00,2024-02-02 22:00,4h 17m,0,S2,Air Sahara,7882,Excellent
+FL-792,Delhi,Ranchi,2024-02-02 23:00,2024-02-02 23:00,2h 58m,0,S2,Air Sahara,10299,Good
+FL-793,Delhi,Jaipur,2024-02-03 00:00,2024-02-03 00:00,4h 38m,0,S2,Air Sahara,3256,Good
+FL-794,Delhi,Jodhpur,2024-02-03 01:00,2024-02-03 01:00,1h 56m,0,S2,Air Sahara,14171,Excellent
+FL-795,Delhi,Lucknow,2024-02-03 02:00,2024-02-03 02:00,1h 48m,0,S2,Air Sahara,4881,Excellent
+FL-796,Delhi,Madras,2024-02-03 03:00,2024-02-03 03:00,3h 40m,0,S2,Air Sahara,13897,Excellent
+FL-797,Delhi,Patina,2024-02-03 04:00,2024-02-03 04:00,2h 16m,0,S2,Air Sahara,5610,Excellent
+FL-798,Delhi,Pune,2024-02-03 05:00,2024-02-03 05:00,2h 49m,0,S2,Air Sahara,7754,Excellent
+FL-799,Delhi,Raipur,2024-02-03 06:00,2024-02-03 06:00,3h 16m,0,S2,Air Sahara,4268,Good
+FL-800,Delhi,Srinagar,2024-02-03 07:00,2024-02-03 07:00,5h 26m,0,S2,Air Sahara,7670,Good
+FL-801,Delhi,Udaipur,2024-02-03 08:00,2024-02-03 08:00,5h 42m,0,S2,Air Sahara,7335,Excellent
+FL-802,Delhi,Varanasi,2024-02-03 09:00,2024-02-03 09:00,4h 8m,0,S2,Air Sahara,14578,Excellent
+FL-803,Mohanbari,Guwahati,2024-02-03 10:00,2024-02-03 10:00,5h 5m,0,S2,Air Sahara,3579,Excellent
+FL-804,Diu,Porbandar,2024-02-03 11:00,2024-02-03 11:00,5h 24m,0,S2,Air Sahara,11142,Good
+FL-805,Guwahati,Aizwal,2024-02-03 12:00,2024-02-03 12:00,5h 29m,0,S2,Air Sahara,5527,Excellent
+FL-806,Guwahati,Kolkata,2024-02-03 13:00,2024-02-03 13:00,1h 15m,0,S2,Air Sahara,9982,Excellent
+FL-807,Guwahati,Delhi,2024-02-03 14:00,2024-02-03 14:00,2h 44m,0,S2,Air Sahara,9210,Good
+FL-808,Guwahati,Mohanbari,2024-02-03 15:00,2024-02-03 15:00,2h 17m,0,S2,Air Sahara,6387,Good
+FL-809,Guwahati,Imphal,2024-02-03 16:00,2024-02-03 16:00,2h 4m,0,S2,Air Sahara,3769,Excellent
+FL-810,Guwahati,Silchar,2024-02-03 17:00,2024-02-03 17:00,3h 31m,0,S2,Air Sahara,9385,Excellent
+FL-811,Goa,Bangalore,2024-02-03 18:00,2024-02-03 18:00,3h 53m,0,S2,Air Sahara,4323,Excellent
+FL-812,Goa,Mumbai,2024-02-03 19:00,2024-02-03 19:00,2h 47m,0,S2,Air Sahara,9577,Excellent
+FL-813,Goa,Madras,2024-02-03 20:00,2024-02-03 20:00,1h 24m,0,S2,Air Sahara,11146,Excellent
+FL-814,Gorakhpur,Delhi,2024-02-03 21:00,2024-02-03 21:00,4h 11m,0,S2,Air Sahara,12025,Good
+FL-815,Hyderabad,Bangalore,2024-02-03 22:00,2024-02-03 22:00,1h 57m,0,S2,Air Sahara,5028,Excellent
+FL-816,Hyderabad,Mumbai,2024-02-03 23:00,2024-02-03 23:00,2h 2m,0,S2,Air Sahara,11819,Good
+FL-817,Hyderabad,Delhi,2024-02-04 00:00,2024-02-04 00:00,4h 7m,0,S2,Air Sahara,5217,Good
+FL-818,Hyderabad,Madras,2024-02-04 01:00,2024-02-04 01:00,1h 25m,0,S2,Air Sahara,4560,Excellent
+FL-819,Hyderabad,Pune,2024-02-04 02:00,2024-02-04 02:00,5h 7m,0,S2,Air Sahara,3048,Good
+FL-820,Hyderabad,Rajahmundry,2024-02-04 03:00,2024-02-04 03:00,5h 55m,0,S2,Air Sahara,9732,Good
+FL-821,Indore,Bangalore,2024-02-04 04:00,2024-02-04 04:00,3h 28m,0,S2,Air Sahara,11786,Good
+FL-822,Indore,Mumbai,2024-02-04 05:00,2024-02-04 05:00,4h 39m,0,S2,Air Sahara,9074,Good
+FL-823,Indore,Delhi,2024-02-04 06:00,2024-02-04 06:00,4h 30m,0,S2,Air Sahara,5449,Excellent
+FL-824,Indore,Pune,2024-02-04 07:00,2024-02-04 07:00,5h 14m,0,S2,Air Sahara,4172,Good
+FL-825,Imphal,Guwahati,2024-02-04 08:00,2024-02-04 08:00,1h 54m,0,S2,Air Sahara,8476,Good
+FL-826,Agartala,Kolkata,2024-02-04 09:00,2024-02-04 09:00,5h 55m,0,S2,Air Sahara,13412,Good
+FL-827,Baghdogra,Kolkata,2024-02-04 10:00,2024-02-04 10:00,4h 37m,0,S2,Air Sahara,4021,Good
+FL-828,Baghdogra,Delhi,2024-02-04 11:00,2024-02-04 11:00,4h 42m,0,S2,Air Sahara,4243,Good
+FL-829,Chandigarh,Mumbai,2024-02-04 12:00,2024-02-04 12:00,4h 43m,0,S2,Air Sahara,11732,Good
+FL-830,Chandigarh,Delhi,2024-02-04 13:00,2024-02-04 13:00,2h 35m,0,S2,Air Sahara,12123,Good
+FL-831,Mangalore,Bangalore,2024-02-04 14:00,2024-02-04 14:00,5h 57m,0,S2,Air Sahara,3122,Good
+FL-832,Mangalore,Mumbai,2024-02-04 15:00,2024-02-04 15:00,3h 42m,0,S2,Air Sahara,7694,Good
+FL-833,Jammu,Delhi,2024-02-04 16:00,2024-02-04 16:00,1h 11m,0,S2,Air Sahara,3790,Good
+FL-834,Leh,Delhi,2024-02-04 17:00,2024-02-04 17:00,5h 46m,0,S2,Air Sahara,13406,Excellent
+FL-835,Madurai,Madras,2024-02-04 18:00,2024-02-04 18:00,3h 19m,0,S2,Air Sahara,7980,Good
+FL-836,Ranchi,Kolkata,2024-02-04 19:00,2024-02-04 19:00,2h 13m,0,S2,Air Sahara,14804,Good
+FL-837,Ranchi,Delhi,2024-02-04 20:00,2024-02-04 20:00,1h 17m,0,S2,Air Sahara,11071,Excellent
+FL-838,Silchar,Kolkata,2024-02-04 21:00,2024-02-04 21:00,5h 1m,0,S2,Air Sahara,10438,Good
+FL-839,Silchar,Guwahati,2024-02-04 22:00,2024-02-04 22:00,3h 59m,0,S2,Air Sahara,7563,Good
+FL-840,Aurangabad,Mumbai,2024-02-04 23:00,2024-02-04 23:00,4h 38m,0,S2,Air Sahara,11877,Excellent
+FL-841,Port Blair,Kolkata,2024-02-05 00:00,2024-02-05 00:00,2h 27m,0,S2,Air Sahara,6956,Excellent
+FL-842,Port Blair,Madras,2024-02-05 01:00,2024-02-05 01:00,1h 36m,0,S2,Air Sahara,6521,Excellent
+FL-843,Jaipur,Mumbai,2024-02-05 02:00,2024-02-05 02:00,3h 13m,0,S2,Air Sahara,5691,Good
+FL-844,Jaipur,Delhi,2024-02-05 03:00,2024-02-05 03:00,2h 54m,0,S2,Air Sahara,6871,Good
+FL-845,Jodhpur,Mumbai,2024-02-05 04:00,2024-02-05 04:00,4h 33m,0,S2,Air Sahara,6270,Good
+FL-846,Jodhpur,Delhi,2024-02-05 05:00,2024-02-05 05:00,5h 15m,0,S2,Air Sahara,8455,Excellent
+FL-847,Lucknow,Mumbai,2024-02-05 06:00,2024-02-05 06:00,5h 57m,0,S2,Air Sahara,14096,Good
+FL-848,Lucknow,Delhi,2024-02-05 07:00,2024-02-05 07:00,3h 1m,0,S2,Air Sahara,8450,Excellent
+FL-849,Madras,Bangalore,2024-02-05 08:00,2024-02-05 08:00,5h 42m,0,S2,Air Sahara,14297,Good
+FL-850,Madras,Mumbai,2024-02-05 09:00,2024-02-05 09:00,4h 35m,0,S2,Air Sahara,14826,Excellent
+FL-851,Madras,Coimbatore,2024-02-05 10:00,2024-02-05 10:00,3h 14m,0,S2,Air Sahara,8919,Excellent
+FL-852,Madras,Kochi,2024-02-05 11:00,2024-02-05 11:00,5h 20m,0,S2,Air Sahara,8020,Excellent
+FL-853,Madras,Delhi,2024-02-05 12:00,2024-02-05 12:00,2h 38m,0,S2,Air Sahara,6716,Excellent
+FL-854,Madras,Goa,2024-02-05 13:00,2024-02-05 13:00,4h 42m,0,S2,Air Sahara,4291,Good
+FL-855,Madras,Hyderabad,2024-02-05 14:00,2024-02-05 14:00,3h 27m,0,S2,Air Sahara,14911,Good
+FL-856,Madras,Madurai,2024-02-05 15:00,2024-02-05 15:00,3h 42m,0,S2,Air Sahara,11590,Excellent
+FL-857,Madras,Port Blair,2024-02-05 16:00,2024-02-05 16:00,4h 42m,0,S2,Air Sahara,13116,Good
+FL-858,Madras,Tiruchirappalli,2024-02-05 17:00,2024-02-05 17:00,5h 59m,0,S2,Air Sahara,11951,Excellent
+FL-859,Nagpur,Mumbai,2024-02-05 18:00,2024-02-05 18:00,2h 42m,0,S2,Air Sahara,9313,Good
+FL-860,Patina,Kolkata,2024-02-05 19:00,2024-02-05 19:00,2h 25m,0,S2,Air Sahara,13282,Good
+FL-861,Patina,Delhi,2024-02-05 20:00,2024-02-05 20:00,2h 1m,0,S2,Air Sahara,10588,Good
+FL-862,Porbandar,Mumbai,2024-02-05 21:00,2024-02-05 21:00,2h 38m,0,S2,Air Sahara,10729,Excellent
+FL-863,Pune,Bangalore,2024-02-05 22:00,2024-02-05 22:00,2h 23m,0,S2,Air Sahara,5090,Good
+FL-864,Pune,Mumbai,2024-02-05 23:00,2024-02-05 23:00,2h 12m,0,S2,Air Sahara,5772,Good
+FL-865,Pune,Delhi,2024-02-06 00:00,2024-02-06 00:00,4h 56m,0,S2,Air Sahara,3500,Excellent
+FL-866,Pune,Hyderabad,2024-02-06 01:00,2024-02-06 01:00,4h 53m,0,S2,Air Sahara,8621,Excellent
+FL-867,Pune,Indore,2024-02-06 02:00,2024-02-06 02:00,5h 48m,0,S2,Air Sahara,14148,Good
+FL-868,Rajkot,Mumbai,2024-02-06 03:00,2024-02-06 03:00,4h 49m,0,S2,Air Sahara,11007,Good
+FL-869,Rajahmundry,Hyderabad,2024-02-06 04:00,2024-02-06 04:00,1h 23m,0,S2,Air Sahara,10429,Excellent
+FL-870,Raipur,Bhopal,2024-02-06 05:00,2024-02-06 05:00,5h 17m,0,S2,Air Sahara,6611,Good
+FL-871,Raipur,Mumbai,2024-02-06 06:00,2024-02-06 06:00,1h 8m,0,S2,Air Sahara,14820,Excellent
+FL-872,Raipur,Delhi,2024-02-06 07:00,2024-02-06 07:00,1h 28m,0,S2,Air Sahara,4876,Excellent
+FL-873,Srinagar,Delhi,2024-02-06 08:00,2024-02-06 08:00,4h 6m,0,S2,Air Sahara,14149,Excellent
+FL-874,Trivandrum,Bangalore,2024-02-06 09:00,2024-02-06 09:00,3h 24m,0,S2,Air Sahara,3492,Good
+FL-875,Trivandrum,Mumbai,2024-02-06 10:00,2024-02-06 10:00,1h 2m,0,S2,Air Sahara,13184,Excellent
+FL-876,Tiruchirappalli,Madras,2024-02-06 11:00,2024-02-06 11:00,1h 14m,0,S2,Air Sahara,6854,Good
+FL-877,Udaipur,Mumbai,2024-02-06 12:00,2024-02-06 12:00,1h 17m,0,S2,Air Sahara,13433,Excellent
+FL-878,Udaipur,Delhi,2024-02-06 13:00,2024-02-06 13:00,2h 17m,0,S2,Air Sahara,9874,Good
+FL-879,Varanasi,Kolkata,2024-02-06 14:00,2024-02-06 14:00,1h 52m,0,S2,Air Sahara,13625,Excellent
+FL-880,Varanasi,Delhi,2024-02-06 15:00,2024-02-06 15:00,3h 0m,0,S2,Air Sahara,8957,Excellent
+FL-881,Vishakhapatnam,Bangalore,2024-02-06 16:00,2024-02-06 16:00,4h 15m,0,S2,Air Sahara,3560,Excellent
+FL-882,Vishakhapatnam,Mumbai,2024-02-06 17:00,2024-02-06 17:00,2h 21m,0,S2,Air Sahara,6360,Excellent
+FL-883,Vishakhapatnam,Kolkata,2024-02-06 18:00,2024-02-06 18:00,2h 52m,0,S2,Air Sahara,14574,Excellent
+FL-884,Ahmedabad,Mumbai,2024-02-06 19:00,2024-02-06 19:00,4h 7m,0,SG,Spicejet,3999,Good
+FL-885,Ahmedabad,Delhi,2024-02-06 20:00,2024-02-06 20:00,1h 3m,0,SG,Spicejet,12199,Excellent
+FL-886,Ahmedabad,Hyderabad,2024-02-06 21:00,2024-02-06 21:00,5h 30m,0,SG,Spicejet,10027,Good
+FL-887,Ahmedabad,Madras,2024-02-06 22:00,2024-02-06 22:00,4h 6m,0,SG,Spicejet,8424,Excellent
+FL-888,Ahmedabad,Pune,2024-02-06 23:00,2024-02-06 23:00,2h 51m,0,SG,Spicejet,13329,Good
+FL-889,Amritsar,Mumbai,2024-02-07 00:00,2024-02-07 00:00,4h 36m,0,SG,Spicejet,10656,Good
+FL-890,Amritsar,Delhi,2024-02-07 01:00,2024-02-07 01:00,1h 31m,0,SG,Spicejet,11905,Good
+FL-891,Amritsar,Srinagar,2024-02-07 02:00,2024-02-07 02:00,4h 16m,0,SG,Spicejet,11392,Good
+FL-892,Bangalore,Mumbai,2024-02-07 03:00,2024-02-07 03:00,2h 57m,0,SG,Spicejet,3815,Good
+FL-893,Bangalore,Calicut,2024-02-07 04:00,2024-02-07 04:00,3h 0m,0,SG,Spicejet,5915,Good
+FL-894,Bangalore,Kolkata,2024-02-07 05:00,2024-02-07 05:00,2h 1m,0,SG,Spicejet,8428,Good
+FL-895,Bangalore,Kochi,2024-02-07 06:00,2024-02-07 06:00,4h 59m,0,SG,Spicejet,12632,Good
+FL-896,Bangalore,Delhi,2024-02-07 07:00,2024-02-07 07:00,1h 51m,0,SG,Spicejet,14507,Good
+FL-897,Bangalore,Goa,2024-02-07 08:00,2024-02-07 08:00,4h 35m,0,SG,Spicejet,4693,Excellent
+FL-898,Bangalore,Hubli,2024-02-07 09:00,2024-02-07 09:00,2h 17m,0,SG,Spicejet,10286,Excellent
+FL-899,Bangalore,Hyderabad,2024-02-07 10:00,2024-02-07 10:00,4h 56m,0,SG,Spicejet,10668,Good
+FL-900,Bangalore,Mangalore,2024-02-07 11:00,2024-02-07 11:00,4h 54m,0,SG,Spicejet,12656,Good
+FL-901,Bangalore,Belgaum,2024-02-07 12:00,2024-02-07 12:00,5h 2m,0,SG,Spicejet,14519,Good
+FL-902,Bangalore,Madras,2024-02-07 13:00,2024-02-07 13:00,4h 36m,0,SG,Spicejet,8362,Excellent
+FL-903,Bangalore,Mysore,2024-02-07 14:00,2024-02-07 14:00,3h 39m,0,SG,Spicejet,4039,Good
+FL-904,Bangalore,Pune,2024-02-07 15:00,2024-02-07 15:00,3h 30m,0,SG,Spicejet,7878,Excellent
+FL-905,Bangalore,Vijayawada,2024-02-07 16:00,2024-02-07 16:00,1h 44m,0,SG,Spicejet,5066,Good
+FL-906,Bangalore,Vishakhapatnam,2024-02-07 17:00,2024-02-07 17:00,3h 55m,0,SG,Spicejet,6404,Good
+FL-907,Mumbai,Ahmedabad,2024-02-07 18:00,2024-02-07 18:00,4h 1m,0,SG,Spicejet,12783,Excellent
+FL-908,Mumbai,Amritsar,2024-02-07 19:00,2024-02-07 19:00,5h 24m,0,SG,Spicejet,13938,Excellent
+FL-909,Mumbai,Bangalore,2024-02-07 20:00,2024-02-07 20:00,3h 50m,0,SG,Spicejet,3215,Good
+FL-910,Mumbai,Kolkata,2024-02-07 21:00,2024-02-07 21:00,4h 56m,0,SG,Spicejet,3556,Excellent
+FL-911,Mumbai,Coimbatore,2024-02-07 22:00,2024-02-07 22:00,5h 13m,0,SG,Spicejet,12908,Excellent
+FL-912,Mumbai,Kochi,2024-02-07 23:00,2024-02-07 23:00,2h 31m,0,SG,Spicejet,11006,Excellent
+FL-913,Mumbai,Delhi,2024-02-08 00:00,2024-02-08 00:00,1h 16m,0,SG,Spicejet,13603,Excellent
+FL-914,Mumbai,Goa,2024-02-08 01:00,2024-02-08 01:00,4h 56m,0,SG,Spicejet,13773,Excellent
+FL-915,Mumbai,Hubli,2024-02-08 02:00,2024-02-08 02:00,2h 11m,0,SG,Spicejet,11420,Excellent
+FL-916,Mumbai,Hyderabad,2024-02-08 03:00,2024-02-08 03:00,3h 37m,0,SG,Spicejet,6896,Good
+FL-917,Mumbai,Mangalore,2024-02-08 04:00,2024-02-08 04:00,3h 8m,0,SG,Spicejet,6056,Excellent
+FL-918,Mumbai,Jabalpur,2024-02-08 05:00,2024-02-08 05:00,3h 44m,0,SG,Spicejet,10959,Good
+FL-919,Mumbai,Madras,2024-02-08 06:00,2024-02-08 06:00,1h 49m,0,SG,Spicejet,14687,Good
+FL-920,Mumbai,Surat,2024-02-08 07:00,2024-02-08 07:00,5h 33m,0,SG,Spicejet,5780,Good
+FL-921,Mumbai,Trivandrum,2024-02-08 08:00,2024-02-08 08:00,3h 51m,0,SG,Spicejet,8006,Good
+FL-922,Calicut,Bangalore,2024-02-08 09:00,2024-02-08 09:00,2h 28m,0,SG,Spicejet,8231,Excellent
+FL-923,Calicut,Madras,2024-02-08 10:00,2024-02-08 10:00,3h 16m,0,SG,Spicejet,8058,Excellent
+FL-924,Kolkata,Bangalore,2024-02-08 11:00,2024-02-08 11:00,2h 54m,0,SG,Spicejet,13760,Excellent
+FL-925,Kolkata,Mumbai,2024-02-08 12:00,2024-02-08 12:00,2h 29m,0,SG,Spicejet,6619,Excellent
+FL-926,Kolkata,Delhi,2024-02-08 13:00,2024-02-08 13:00,4h 0m,0,SG,Spicejet,5628,Good
+FL-927,Kolkata,Guwahati,2024-02-08 14:00,2024-02-08 14:00,2h 33m,0,SG,Spicejet,8230,Excellent
+FL-928,Kolkata,Hyderabad,2024-02-08 15:00,2024-02-08 15:00,5h 10m,0,SG,Spicejet,3820,Excellent
+FL-929,Kolkata,Agartala,2024-02-08 16:00,2024-02-08 16:00,3h 7m,0,SG,Spicejet,13465,Excellent
+FL-930,Kolkata,Baghdogra,2024-02-08 17:00,2024-02-08 17:00,1h 9m,0,SG,Spicejet,8307,Excellent
+FL-931,Kolkata,Port Blair,2024-02-08 18:00,2024-02-08 18:00,3h 7m,0,SG,Spicejet,14086,Excellent
+FL-932,Kolkata,Madras,2024-02-08 19:00,2024-02-08 19:00,1h 13m,0,SG,Spicejet,10725,Good
+FL-933,Coimbatore,Mumbai,2024-02-08 20:00,2024-02-08 20:00,4h 31m,0,SG,Spicejet,8973,Good
+FL-934,Coimbatore,Hyderabad,2024-02-08 21:00,2024-02-08 21:00,4h 15m,0,SG,Spicejet,4944,Good
+FL-935,Coimbatore,Madras,2024-02-08 22:00,2024-02-08 22:00,4h 42m,0,SG,Spicejet,8517,Excellent
+FL-936,Kochi,Bangalore,2024-02-08 23:00,2024-02-08 23:00,1h 15m,0,SG,Spicejet,10487,Good
+FL-937,Kochi,Mumbai,2024-02-09 00:00,2024-02-09 00:00,5h 21m,0,SG,Spicejet,12228,Excellent
+FL-938,Kochi,Hyderabad,2024-02-09 01:00,2024-02-09 01:00,5h 41m,0,SG,Spicejet,14947,Good
+FL-939,Kochi,Madras,2024-02-09 02:00,2024-02-09 02:00,1h 11m,0,SG,Spicejet,12653,Excellent
+FL-940,Kochi,Pune,2024-02-09 03:00,2024-02-09 03:00,5h 16m,0,SG,Spicejet,14074,Excellent
+FL-941,Dehra Dun,Delhi,2024-02-09 04:00,2024-02-09 04:00,5h 18m,0,SG,Spicejet,9453,Good
+FL-942,Delhi,Ahmedabad,2024-02-09 05:00,2024-02-09 05:00,4h 6m,0,SG,Spicejet,9629,Excellent
+FL-943,Delhi,Amritsar,2024-02-09 06:00,2024-02-09 06:00,5h 19m,0,SG,Spicejet,8302,Good
+FL-944,Delhi,Bangalore,2024-02-09 07:00,2024-02-09 07:00,1h 36m,0,SG,Spicejet,9665,Good
+FL-945,Delhi,Mumbai,2024-02-09 08:00,2024-02-09 08:00,3h 7m,0,SG,Spicejet,9162,Excellent
+FL-946,Delhi,Kolkata,2024-02-09 09:00,2024-02-09 09:00,5h 54m,0,SG,Spicejet,9883,Good
+FL-947,Delhi,Dehra Dun,2024-02-09 10:00,2024-02-09 10:00,3h 9m,0,SG,Spicejet,14855,Good
+FL-948,Delhi,Kangra,2024-02-09 11:00,2024-02-09 11:00,1h 20m,0,SG,Spicejet,5029,Excellent
+FL-949,Delhi,Guwahati,2024-02-09 12:00,2024-02-09 12:00,2h 28m,0,SG,Spicejet,9256,Good
+FL-950,Delhi,Goa,2024-02-09 13:00,2024-02-09 13:00,5h 30m,0,SG,Spicejet,10047,Excellent
+FL-951,Delhi,Hyderabad,2024-02-09 14:00,2024-02-09 14:00,3h 17m,0,SG,Spicejet,7044,Excellent
+FL-952,Delhi,Indore,2024-02-09 15:00,2024-02-09 15:00,2h 32m,0,SG,Spicejet,11251,Excellent
+FL-953,Delhi,Baghdogra,2024-02-09 16:00,2024-02-09 16:00,2h 57m,0,SG,Spicejet,5049,Good
+FL-954,Delhi,Chandigarh,2024-02-09 17:00,2024-02-09 17:00,2h 7m,0,SG,Spicejet,11616,Good
+FL-955,Delhi,Jammu,2024-02-09 18:00,2024-02-09 18:00,1h 23m,0,SG,Spicejet,6915,Excellent
+FL-956,Delhi,Aurangabad,2024-02-09 19:00,2024-02-09 19:00,2h 37m,0,SG,Spicejet,7312,Good
+FL-957,Delhi,Jaipur,2024-02-09 20:00,2024-02-09 20:00,4h 42m,0,SG,Spicejet,5240,Excellent
+FL-958,Delhi,Jabalpur,2024-02-09 21:00,2024-02-09 21:00,1h 39m,0,SG,Spicejet,11104,Excellent
+FL-959,Delhi,Lucknow,2024-02-09 22:00,2024-02-09 22:00,3h 38m,0,SG,Spicejet,4792,Excellent
+FL-960,Delhi,Madras,2024-02-09 23:00,2024-02-09 23:00,5h 31m,0,SG,Spicejet,8165,Good
+FL-961,Delhi,Pune,2024-02-10 00:00,2024-02-10 00:00,4h 17m,0,SG,Spicejet,8681,Good
+FL-962,Delhi,Surat,2024-02-10 01:00,2024-02-10 01:00,1h 16m,0,SG,Spicejet,4480,Excellent
+FL-963,Delhi,Srinagar,2024-02-10 02:00,2024-02-10 02:00,4h 57m,0,SG,Spicejet,10101,Excellent
+FL-964,Delhi,Udaipur,2024-02-10 03:00,2024-02-10 03:00,2h 23m,0,SG,Spicejet,11075,Good
+FL-965,Delhi,Varanasi,2024-02-10 04:00,2024-02-10 04:00,2h 0m,0,SG,Spicejet,5439,Good
+FL-966,Kangra,Delhi,2024-02-10 05:00,2024-02-10 05:00,1h 45m,0,SG,Spicejet,10378,Good
+FL-967,Guwahati,Kolkata,2024-02-10 06:00,2024-02-10 06:00,5h 8m,0,SG,Spicejet,9109,Excellent
+FL-968,Guwahati,Delhi,2024-02-10 07:00,2024-02-10 07:00,4h 57m,0,SG,Spicejet,10484,Excellent
+FL-969,Guwahati,Agartala,2024-02-10 08:00,2024-02-10 08:00,3h 4m,0,SG,Spicejet,4529,Good
+FL-970,Guwahati,Baghdogra,2024-02-10 09:00,2024-02-10 09:00,4h 32m,0,SG,Spicejet,8764,Excellent
+FL-971,Goa,Bangalore,2024-02-10 10:00,2024-02-10 10:00,3h 38m,0,SG,Spicejet,8437,Good
+FL-972,Goa,Mumbai,2024-02-10 11:00,2024-02-10 11:00,3h 28m,0,SG,Spicejet,8752,Excellent
+FL-973,Goa,Delhi,2024-02-10 12:00,2024-02-10 12:00,5h 36m,0,SG,Spicejet,12853,Good
+FL-974,Goa,Hyderabad,2024-02-10 13:00,2024-02-10 13:00,4h 8m,0,SG,Spicejet,11043,Good
+FL-975,Goa,Madras,2024-02-10 14:00,2024-02-10 14:00,4h 0m,0,SG,Spicejet,5142,Good
+FL-976,Goa,Pune,2024-02-10 15:00,2024-02-10 15:00,4h 13m,0,SG,Spicejet,6851,Excellent
+FL-977,Hubli,Bangalore,2024-02-10 16:00,2024-02-10 16:00,5h 39m,0,SG,Spicejet,9411,Excellent
+FL-978,Hubli,Mumbai,2024-02-10 17:00,2024-02-10 17:00,4h 3m,0,SG,Spicejet,5072,Good
+FL-979,Hyderabad,Ahmedabad,2024-02-10 18:00,2024-02-10 18:00,2h 55m,0,SG,Spicejet,4041,Excellent
+FL-980,Hyderabad,Bangalore,2024-02-10 19:00,2024-02-10 19:00,5h 13m,0,SG,Spicejet,8280,Excellent
+FL-981,Hyderabad,Mumbai,2024-02-10 20:00,2024-02-10 20:00,3h 35m,0,SG,Spicejet,13403,Good
+FL-982,Hyderabad,Kolkata,2024-02-10 21:00,2024-02-10 21:00,4h 0m,0,SG,Spicejet,8774,Excellent
+FL-983,Hyderabad,Coimbatore,2024-02-10 22:00,2024-02-10 22:00,4h 32m,0,SG,Spicejet,6752,Excellent
+FL-984,Hyderabad,Kochi,2024-02-10 23:00,2024-02-10 23:00,3h 18m,0,SG,Spicejet,10221,Excellent
+FL-985,Hyderabad,Delhi,2024-02-11 00:00,2024-02-11 00:00,1h 30m,0,SG,Spicejet,14464,Excellent
+FL-986,Hyderabad,Goa,2024-02-11 01:00,2024-02-11 01:00,4h 24m,0,SG,Spicejet,11019,Excellent
+FL-987,Hyderabad,Indore,2024-02-11 02:00,2024-02-11 02:00,4h 38m,0,SG,Spicejet,3705,Good
+FL-988,Hyderabad,Madurai,2024-02-11 03:00,2024-02-11 03:00,4h 31m,0,SG,Spicejet,5634,Excellent
+FL-989,Hyderabad,Madras,2024-02-11 04:00,2024-02-11 04:00,2h 0m,0,SG,Spicejet,6518,Excellent
+FL-990,Hyderabad,Pune,2024-02-11 05:00,2024-02-11 05:00,3h 56m,0,SG,Spicejet,6446,Good
+FL-991,Hyderabad,Rajahmundry,2024-02-11 06:00,2024-02-11 06:00,3h 52m,0,SG,Spicejet,10358,Good
+FL-992,Hyderabad,Tirupeti,2024-02-11 07:00,2024-02-11 07:00,5h 3m,0,SG,Spicejet,11198,Excellent
+FL-993,Hyderabad,Vijayawada,2024-02-11 08:00,2024-02-11 08:00,2h 49m,0,SG,Spicejet,12140,Excellent
+FL-994,Hyderabad,Vishakhapatnam,2024-02-11 09:00,2024-02-11 09:00,2h 41m,0,SG,Spicejet,10861,Good
+FL-995,Indore,Delhi,2024-02-11 10:00,2024-02-11 10:00,5h 39m,0,SG,Spicejet,10999,Excellent
+FL-996,Indore,Hyderabad,2024-02-11 11:00,2024-02-11 11:00,1h 31m,0,SG,Spicejet,13403,Excellent
+FL-997,Agartala,Kolkata,2024-02-11 12:00,2024-02-11 12:00,2h 7m,0,SG,Spicejet,6665,Excellent
+FL-998,Agartala,Guwahati,2024-02-11 13:00,2024-02-11 13:00,1h 23m,0,SG,Spicejet,4130,Excellent
+FL-999,Baghdogra,Kolkata,2024-02-11 14:00,2024-02-11 14:00,5h 43m,0,SG,Spicejet,8992,Excellent
+FL-1000,Baghdogra,Delhi,2024-02-11 15:00,2024-02-11 15:00,3h 36m,0,SG,Spicejet,12412,Excellent
+FL-1001,Baghdogra,Guwahati,2024-02-11 16:00,2024-02-11 16:00,2h 57m,0,SG,Spicejet,8335,Excellent
+FL-1002,Chandigarh,Delhi,2024-02-11 17:00,2024-02-11 17:00,5h 16m,0,SG,Spicejet,6729,Excellent
+FL-1003,Chandigarh,Srinagar,2024-02-11 18:00,2024-02-11 18:00,4h 28m,0,SG,Spicejet,10663,Good
+FL-1004,Mangalore,Bangalore,2024-02-11 19:00,2024-02-11 19:00,1h 16m,0,SG,Spicejet,4892,Good
+FL-1005,Mangalore,Mumbai,2024-02-11 20:00,2024-02-11 20:00,3h 23m,0,SG,Spicejet,14598,Excellent
+FL-1006,Belgaum,Bangalore,2024-02-11 21:00,2024-02-11 21:00,2h 37m,0,SG,Spicejet,3624,Good
+FL-1007,Jammu,Delhi,2024-02-11 22:00,2024-02-11 22:00,3h 43m,0,SG,Spicejet,14016,Good
+FL-1008,Jammu,Srinagar,2024-02-11 23:00,2024-02-11 23:00,3h 54m,0,SG,Spicejet,4450,Excellent
+FL-1009,Madurai,Hyderabad,2024-02-12 00:00,2024-02-12 00:00,2h 20m,0,SG,Spicejet,5981,Excellent
+FL-1010,Madurai,Madras,2024-02-12 01:00,2024-02-12 01:00,1h 54m,0,SG,Spicejet,4712,Good
+FL-1011,Aurangabad,Delhi,2024-02-12 02:00,2024-02-12 02:00,2h 52m,0,SG,Spicejet,13672,Good
+FL-1012,Port Blair,Kolkata,2024-02-12 03:00,2024-02-12 03:00,5h 38m,0,SG,Spicejet,7196,Excellent
+FL-1013,Port Blair,Madras,2024-02-12 04:00,2024-02-12 04:00,4h 32m,0,SG,Spicejet,7005,Excellent
+FL-1014,Jaipur,Delhi,2024-02-12 05:00,2024-02-12 05:00,2h 34m,0,SG,Spicejet,13561,Excellent
+FL-1015,Jabalpur,Mumbai,2024-02-12 06:00,2024-02-12 06:00,2h 54m,0,SG,Spicejet,11352,Good
+FL-1016,Jabalpur,Delhi,2024-02-12 07:00,2024-02-12 07:00,5h 48m,0,SG,Spicejet,11613,Excellent
+FL-1017,Lucknow,Delhi,2024-02-12 08:00,2024-02-12 08:00,1h 6m,0,SG,Spicejet,10487,Good
+FL-1018,Madras,Ahmedabad,2024-02-12 09:00,2024-02-12 09:00,4h 54m,0,SG,Spicejet,9363,Excellent
+FL-1019,Madras,Bangalore,2024-02-12 10:00,2024-02-12 10:00,5h 38m,0,SG,Spicejet,13361,Good
+FL-1020,Madras,Mumbai,2024-02-12 11:00,2024-02-12 11:00,2h 38m,0,SG,Spicejet,11318,Excellent
+FL-1021,Madras,Calicut,2024-02-12 12:00,2024-02-12 12:00,5h 13m,0,SG,Spicejet,9059,Good
+FL-1022,Madras,Kolkata,2024-02-12 13:00,2024-02-12 13:00,5h 32m,0,SG,Spicejet,12390,Good
+FL-1023,Madras,Coimbatore,2024-02-12 14:00,2024-02-12 14:00,2h 51m,0,SG,Spicejet,6074,Good
+FL-1024,Madras,Kochi,2024-02-12 15:00,2024-02-12 15:00,3h 51m,0,SG,Spicejet,6826,Excellent
+FL-1025,Madras,Delhi,2024-02-12 16:00,2024-02-12 16:00,2h 21m,0,SG,Spicejet,14411,Good
+FL-1026,Madras,Goa,2024-02-12 17:00,2024-02-12 17:00,3h 34m,0,SG,Spicejet,11145,Excellent
+FL-1027,Madras,Hyderabad,2024-02-12 18:00,2024-02-12 18:00,2h 24m,0,SG,Spicejet,11440,Good
+FL-1028,Madras,Madurai,2024-02-12 19:00,2024-02-12 19:00,4h 41m,0,SG,Spicejet,6629,Good
+FL-1029,Madras,Port Blair,2024-02-12 20:00,2024-02-12 20:00,5h 48m,0,SG,Spicejet,14684,Good
+FL-1030,Madras,Pune,2024-02-12 21:00,2024-02-12 21:00,2h 21m,0,SG,Spicejet,11518,Excellent
+FL-1031,Madras,Trivandrum,2024-02-12 22:00,2024-02-12 22:00,4h 49m,0,SG,Spicejet,14983,Excellent
+FL-1032,Madras,Vishakhapatnam,2024-02-12 23:00,2024-02-12 23:00,4h 28m,0,SG,Spicejet,6892,Good
+FL-1033,Mysore,Bangalore,2024-02-13 00:00,2024-02-13 00:00,2h 55m,0,SG,Spicejet,11427,Excellent
+FL-1034,Pune,Ahmedabad,2024-02-13 01:00,2024-02-13 01:00,3h 26m,0,SG,Spicejet,8617,Good
+FL-1035,Pune,Bangalore,2024-02-13 02:00,2024-02-13 02:00,2h 20m,0,SG,Spicejet,3424,Excellent
+FL-1036,Pune,Kochi,2024-02-13 03:00,2024-02-13 03:00,5h 56m,0,SG,Spicejet,10835,Excellent
+FL-1037,Pune,Delhi,2024-02-13 04:00,2024-02-13 04:00,4h 53m,0,SG,Spicejet,6421,Good
+FL-1038,Pune,Goa,2024-02-13 05:00,2024-02-13 05:00,3h 23m,0,SG,Spicejet,3658,Good
+FL-1039,Pune,Hyderabad,2024-02-13 06:00,2024-02-13 06:00,5h 47m,0,SG,Spicejet,12634,Excellent
+FL-1040,Pune,Madras,2024-02-13 07:00,2024-02-13 07:00,3h 2m,0,SG,Spicejet,13178,Excellent
+FL-1041,Rajahmundry,Hyderabad,2024-02-13 08:00,2024-02-13 08:00,3h 54m,0,SG,Spicejet,3935,Good
+FL-1042,Surat,Mumbai,2024-02-13 09:00,2024-02-13 09:00,2h 19m,0,SG,Spicejet,12907,Good
+FL-1043,Surat,Delhi,2024-02-13 10:00,2024-02-13 10:00,4h 41m,0,SG,Spicejet,6781,Good
+FL-1044,Srinagar,Amritsar,2024-02-13 11:00,2024-02-13 11:00,4h 41m,0,SG,Spicejet,10260,Good
+FL-1045,Srinagar,Delhi,2024-02-13 12:00,2024-02-13 12:00,2h 45m,0,SG,Spicejet,6420,Good
+FL-1046,Srinagar,Chandigarh,2024-02-13 13:00,2024-02-13 13:00,4h 24m,0,SG,Spicejet,6872,Excellent
+FL-1047,Srinagar,Jammu,2024-02-13 14:00,2024-02-13 14:00,4h 27m,0,SG,Spicejet,9213,Excellent
+FL-1048,Tirupeti,Hyderabad,2024-02-13 15:00,2024-02-13 15:00,1h 28m,0,SG,Spicejet,11502,Excellent
+FL-1049,Trivandrum,Mumbai,2024-02-13 16:00,2024-02-13 16:00,3h 37m,0,SG,Spicejet,9293,Excellent
+FL-1050,Trivandrum,Madras,2024-02-13 17:00,2024-02-13 17:00,3h 20m,0,SG,Spicejet,14929,Excellent
+FL-1051,Udaipur,Delhi,2024-02-13 18:00,2024-02-13 18:00,2h 50m,0,SG,Spicejet,3724,Excellent
+FL-1052,Vijayawada,Bangalore,2024-02-13 19:00,2024-02-13 19:00,4h 31m,0,SG,Spicejet,13468,Excellent
+FL-1053,Vijayawada,Hyderabad,2024-02-13 20:00,2024-02-13 20:00,4h 22m,0,SG,Spicejet,14907,Good
+FL-1054,Varanasi,Delhi,2024-02-13 21:00,2024-02-13 21:00,1h 38m,0,SG,Spicejet,3962,Excellent
+FL-1055,Vishakhapatnam,Bangalore,2024-02-13 22:00,2024-02-13 22:00,5h 55m,0,SG,Spicejet,5399,Good
+FL-1056,Vishakhapatnam,Hyderabad,2024-02-13 23:00,2024-02-13 23:00,3h 3m,0,SG,Spicejet,4446,Excellent
+FL-1057,Vishakhapatnam,Madras,2024-02-14 00:00,2024-02-14 00:00,2h 44m,0,SG,Spicejet,6081,Good
